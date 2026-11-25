@@ -1,0 +1,4 @@
+metabat2 -t 2 -m 1500 -i /home/ngonzalez/massey04106/contigs/G09.m1000.fna -a metabat_G09.txt -o /nesi/nobackup/massey04106/BGI/metabat_G09/metabat
+metabat2 -t 2 -m 1500 -i /home/ngonzalez/massey04106/contigs/E06.m1000.fna -a metabat_E06.txt -o /nesi/nobackup/massey04106/BGI/metabat_E06/metabat
+
+for bin_path in metabat/*.fa; do    bin_name=$(basename ${bin_path} .fa)    grep ">" ${bin_path} | sed 's/>//g' | sed "s/$/\t${bin_name}/g" >> metabat_associations.txt done

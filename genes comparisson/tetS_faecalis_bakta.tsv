@@ -1,0 +1,8 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	430	561	-	ALLOFB_00005		hypothetical protein	
+contig_1	cds	685	2625	-	ALLOFB_00010	tet(S)	tetracycline resistance ribosomal protection protein Tet(S)	BlastRules:WP_063856411, NCBIProtein:WP_000691722.1, SO:0001217, UniRef:UniRef50_P10952

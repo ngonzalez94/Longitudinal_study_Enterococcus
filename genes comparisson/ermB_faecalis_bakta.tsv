@@ -1,0 +1,11 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	2	667	+	FAOIMD_00005	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	NCBIProtein:WP_001038790.1, SO:0001217, UniRef:UniRef50_P21236
+contig_1	cds	612	803	+	FAOIMD_00010		IL4	SO:0001217, UniRef:UniRef50_E2YTU5
+contig_1	cds	1022	1576	+	FAOIMD_00015		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_R8NHT0
+contig_1	cds	1580	4498	+	FAOIMD_00020		Transposase	SO:0001217, UniRef:UniRef50_R3H6Q7
+contig_1	cds	4728	5300	+	FAOIMD_00025		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A4F5E1

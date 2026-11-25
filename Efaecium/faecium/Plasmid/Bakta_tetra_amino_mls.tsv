@@ -1,0 +1,40 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	oriC	351	573	?			origin of replication	
+contig_1	cds	574	1836	-	EMHBJA_00005		Plasmid recombination enzyme type 2	SO:0001217, UniRef:UniRef50_P0A0C5
+contig_1	oriC	1837	2399	?			origin of replication	
+contig_1	cds	2400	3602	-	EMHBJA_00010	tet(L)	tetracycline efflux MFS transporter Tet(L)	NCBIProtein:WP_001574277.1, SO:0001217, UniRef:UniRef50_E2YTP4
+contig_1	cds	3970	5889	-	EMHBJA_00015	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	NCBIProtein:WP_001574275.1, SO:0001217, UniRef:UniRef50_P10952
+contig_1	ncRNA	5945	6109	-	EMHBJA_00020	sRNA_0030	Enterococcus sRNA 30	RFAM:RF02864, SO:0000655
+contig_1	cds	6266	7198	-	EMHBJA_00025		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_F7KH35
+contig_1	cds	7195	8196	-	EMHBJA_00030		putative endopeptidase p60	SO:0001217, UniRef:UniRef50_A0A1C6B2C6
+contig_1	cds	8193	10094	-	EMHBJA_00035		hypothetical protein	
+contig_1	cds	10373	12820	-	EMHBJA_00040		ATP/GTP-binding protein	SO:0001217, UniRef:UniRef50_N9UZ03
+contig_1	cds	13285	13782	-	EMHBJA_00045	ardA	Antirestriction protein ArdA	SO:0001217, UniRef:UniRef50_H1BBB3
+contig_1	cds	13899	14120	-	EMHBJA_00050		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_R2RZ59
+contig_1	cds	14163	15368	-	EMHBJA_00055		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_F7KH28
+contig_1	cds	15546	16931	-	EMHBJA_00060		DUF87 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A659ZZP0
+contig_1	cds	16960	17343	-	EMHBJA_00065		DUF961 domain-containing protein	SO:0001217, UniRef:UniRef50_B0G9X8
+contig_1	cds	17362	17676	-	EMHBJA_00070		DUF961 domain-containing protein	SO:0001217, UniRef:UniRef50_S0J4Y5
+contig_1	cds	18120	18290	+	EMHBJA_00075		hypothetical protein	
+contig_1	cds	18304	18906	+	EMHBJA_00080		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_B2GBH8
+contig_1	cds	18922	19614	+	EMHBJA_00085		Omega-protein	SO:0001217, UniRef:UniRef50_E3C7R6
+contig_1	cds	20081	20407	+	EMHBJA_00090		hypothetical protein	
+contig_1	cds	20408	20824	+	EMHBJA_00095		hypothetical protein	
+contig_1	cds	20826	22388	+	EMHBJA_00100		Recombinase family protein	SO:0001217, UniRef:UniRef50_S1RJ85
+contig_1	cds	22531	22755	+	EMHBJA_00105		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R9MIZ2
+contig_1	cds	22770	23639	+	EMHBJA_00110		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	23620	24354	+	EMHBJA_00115		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	24387	25295	+	EMHBJA_00120	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_001255866.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	25292	25540	+	EMHBJA_00125		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI000D578AAA
+contig_1	cds	25543	26451	-	EMHBJA_00130	tnp	IS982 family IS19 transposase	IS:IS19, SO:0001217, UniRef:UniRef50_G5CKR6
+contig_1	cds	26914	27708	+	EMHBJA_00135	aph(3')-IIIa	aminoglycoside O-phosphotransferase APH(3')-IIIa	NCBIProtein:WP_001096887.1, SO:0001217, UniRef:UniRef50_P0A3Y5
+contig_1	sorf	28250	28333	+	EMHBJA_00140		rRNA methylase leader peptide	SO:0001217, UniRef:UniRef50_B4XKC7
+contig_1	cds	28458	29195	+	EMHBJA_00145	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	NCBIProtein:WP_001038790.1, SO:0001217, UniRef:UniRef50_P21236
+contig_1	cds	29550	30104	+	EMHBJA_00150		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_R8NHT0
+contig_1	cds	30108	33026	+	EMHBJA_00155		Transposase	SO:0001217, UniRef:UniRef50_R3H6Q7
+contig_1	cds	33256	33828	+	EMHBJA_00160		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A4F5E1

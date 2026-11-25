@@ -1,0 +1,21 @@
+The genes that are flat: aph(3) and tet(S). 
+This means these sequences are almost identical 
+These genes are widespread across species, but there's no diversity. They are unique. 
+If it's succesful, why change?
+The aph(3) and tet(S) coding sequences were highly conserved across Enterococcus isolates and occurred in both plasmid and chromosomal contexts, suggesting dissemination of conserved resistance determinants across multiple genetic backgrounds. I need to add ST information, species information, plasmid chromosome information, plasmid context. 
+
+Ant6: 
+has one distinct lineage associated with chromosome faecium, and the other lineage is found in chromosome faecium and plasmid faecalis. 
+
+
+Tet(M) is the most interesting of all: 
+There are different tet(M) alleles.
+Not all plasmids carry the same tet(M)
+Maybe I should check all the tet(M) plasmids contigs to see if they have similar conjugative elements. 
+There's one cluster that it's mostly plasmid associated and the other one is more diverse. 
+Certain tet(M) allelic lineages are associated preferentially with plasmid and species contexts, whereas others are associated primarily with chromosomal contexts independently of species.    
+A distinct tet(M) lineage was identified that was exclusively associated with RFPlasmid-predicted plasmid contigs in E. faecalis isolates
+but
+aample size for that branch small, needs more genomes
+RFPlasmid is a prediction
+Phylogenetic analysis of tet(M) revealed a distinct lineage comprising exclusively E. faecalis isolates. All sequences within this lineage were located on RFPlasmid-predicted plasmid contigs, whereas the remaining tet(M) sequences were predominantly associated with chromosome-derived contigs. This suggests an association between tet(M) sequence variation and genomic context

@@ -1,0 +1,68 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	Diet stage
+FIELD_LABELS	Diet stage
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+COLOR_BRANCHES	0
+
+
+#dataset color (can be changed later)
+#COLOR	#000000
+LEGEND_TITLE	Diet stage
+LEGEND_SHAPES	1	1	1	
+LEGEND_COLORS	#cfe2f3	#d5a6bd	#93c47d
+LEGEND_LABELS	Pre-WM	WM	Post-WM	
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+NG0027bf	#cfe2f3	Pre-WM
+NG0029bb	#cfe2f3	Pre-WM
+NG0045ba	#cfe2f3	Pre-WM
+NG0050ba	#cfe2f3	Pre-WM
+NG0057bd	#cfe2f3	Pre-WM
+NG0063bd	#cfe2f3	Pre-WM
+NG0063bf	#cfe2f3	Pre-WM
+NG0069bb	#cfe2f3	Pre-WM
+NG0070bb	#cfe2f3	Pre-WM
+NG0071ba	#cfe2f3	Pre-WM
+NG0087bf	#d5a6bd	WM
+NG0099be	#d5a6bd	WM
+NG0107bb	#d5a6bd	WM
+NG0111bb	#d5a6bd	WM
+NG0111bc	#d5a6bd	WM
+NG0115bd	#d5a6bd	WM
+NG0131ba	#d5a6bd	WM
+NG0149be	#d5a6bd	WM
+NG0151be	#d5a6bd	WM
+NG0152ba	#d5a6bd	WM
+NG0158be	#d5a6bd	WM
+NG0158bf	#d5a6bd	WM
+NG0176bf	#d5a6bd	WM
+NG0214bc	#d5a6bd	WM
+NG0214bd	#d5a6bd	WM
+NG0220bc	#d5a6bd	WM
+NG0220bd	#d5a6bd	WM
+NG0259be	#d5a6bd	WM
+NG0292be	#d5a6bd	WM
+NG0292bf	#d5a6bd	WM
+NG0297be	#d5a6bd	WM
+NG0297bf	#d5a6bd	WM
+NG0298be	#d5a6bd	WM
+NG0353ba	#d5a6bd	WM

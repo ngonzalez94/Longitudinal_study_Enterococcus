@@ -1,0 +1,73 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	Farm
+FIELD_LABELS	Farm
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+COLOR_BRANCHES	0
+
+
+#dataset color (can be changed later)
+#COLOR	#000000
+LEGEND_TITLE	Farm
+LEGEND_SHAPES	1	1	1	
+LEGEND_COLORS	#ffd248	#3d85c6	#cc0000
+LEGEND_LABELS	1	2	3	
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+NG0016bc	#3d85c6	2
+NG0016be	#3d85c6	2
+NG0049bc	#3d85c6	2
+NG0049be	#3d85c6	2
+NG0058ba	#cc0000	3
+NG0058be	#cc0000	3
+NG0060bb	#cc0000	3
+NG0061bf	#cc0000	3
+NG0063bc	#cc0000	3
+NG0063bd	#cc0000	3
+NG0063bf	#cc0000	3
+NG0066bb	#cc0000	3
+NG0073bf	#ffd248	1
+NG0114bd	#3d85c6	2
+NG0115ba	#3d85c6	2
+NG0115bd	#3d85c6	2
+NG0180bc	#3d85c6	2
+NG0180bd	#3d85c6	2
+NG0181ba	#3d85c6	2
+NG0181bc	#3d85c6	2
+NG0181bd	#3d85c6	2
+NG0184bc	#3d85c6	2
+NG0184bd	#3d85c6	2
+NG0184be	#3d85c6	2
+NG0187bc	#3d85c6	2
+NG0187bd	#3d85c6	2
+NG0189bc	#3d85c6	2
+NG0189bd	#3d85c6	2
+NG0190bc	#3d85c6	2
+NG0190bd	#3d85c6	2
+NG0194bc	#3d85c6	2
+NG0194bd	#3d85c6	2
+NG0197bc	#3d85c6	2
+NG0214bc	#3d85c6	2
+NG0214bd	#3d85c6	2
+NG0220bc	#3d85c6	2
+NG0220bd	#3d85c6	2
+NG0222bc 	#3d85c6	2
+

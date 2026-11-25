@@ -1,0 +1,402 @@
+vf_NG0027bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0027bf.tsv	virulence_ent	SrtA	99.46	735 / 735	Contig_99_22.3645	54842..55576		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_43_22.1938	4176..5003		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_43_22.1938	4176..5003		CP002621.1
+vf_NG0027bf.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_52_21.1278	45646..46464		CP002621.1
+vf_NG0027bf.tsv	virulence_ent	cad	100.0	930 / 930	Contig_133_24.5787	40006..40935		CP002621.1
+vf_NG0027bf.tsv	virulence_ent	camE	99.6	501 / 501	Contig_92_18.0142	14316..14816	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0027bf.tsv	virulence_ent	camE	99.6	501 / 501	Contig_92_18.0142	14316..14816	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0027bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_89_19.2659	8455..11766		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_89_19.2659	7021..8451		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	ebpC	99.95	1884 / 1884	Contig_89_19.2659	5141..7024		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	efaAfs	99.57	927 / 927	Contig_101_19.9708	75866..76792		AE016830.1
+vf_NG0027bf.tsv	virulence_ent	fsrB	99.18	729 / 729	Contig_21_17.1313	15149..15877	biofilm formation	CP002621.1
+vf_NG0027bf.tsv	virulence_ent	gelE	99.28	1530 / 1530	Contig_21_17.1313	12042..13571		CP002491.1
+vf_NG0027bf.tsv	virulence_ent	hylB	99.57	3015 / 3015	Contig_116_22.5854	15826..18840		AE016830.1
+vf_NG0027bf.tsv	virulence_ent	tpx	99.8	510 / 510	Contig_85_22.3631	22653..23162		CP002621.1
+vf_NG0029bb.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0029bb.tsv	virulence_ent	SrtA	99.46	735 / 735	Contig_36_58.4003	64589..65323		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	ace	99.23	1169 / 1884	Contig_37_50.0864	1..1169	collagen adhesin precursor	AF260876.1
+vf_NG0029bb.tsv	virulence_ent	agg	95.1	3921 / 3918	Contig_43_110.845	37530..41447	aggregation substance	CP002493.1
+vf_NG0029bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_33_62.1823	34220..35047		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_33_62.1823	34220..35047		CP002621.1
+vf_NG0029bb.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_2_53.6623	67426..68244		CP002621.1
+vf_NG0029bb.tsv	virulence_ent	cad	100.0	930 / 930	Contig_36_58.4003	257029..257958		CP002621.1
+vf_NG0029bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_46_47.276	19811..20311	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0029bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_46_47.276	19811..20311	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0029bb.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_37_50.0864	8512..11823		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_37_50.0864	7078..8508		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_37_50.0864	5198..7081		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	efaAfs	99.57	927 / 927	Contig_13_49.7	12190..13116		AE016830.1
+vf_NG0029bb.tsv	virulence_ent	fsrB	99.18	729 / 729	Contig_45_46.1915	416..1144	biofilm formation	CP002621.1
+vf_NG0029bb.tsv	virulence_ent	gelE	99.28	1530 / 1530	Contig_45_46.1915	2722..4251		CP002491.1
+vf_NG0029bb.tsv	virulence_ent	hylB	99.57	3015 / 3015	Contig_35_58.197	15826..18840		AE016830.1
+vf_NG0029bb.tsv	virulence_ent	tpx	99.8	510 / 510	Contig_25_56.4993	22653..23162		CP002621.1
+vf_NG0045ba.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0045ba.tsv	virulence_ent	ElrA	99.95	2172 / 2172	Contig_9_73.7083	15071..17242		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	SrtA	99.86	735 / 735	Contig_33_78.6415	23470..24204		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	ace	97.76	1743 / 1743	Contig_35_56.2391	24601..26343	collagen adhesin precursor	AF260879.1
+vf_NG0045ba.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_34_75.2775	16182..17009		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_34_75.2775	16182..17009		CP002621.1
+vf_NG0045ba.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_28_61.8933	166026..166844		295112306
+vf_NG0045ba.tsv	virulence_ent	cad	100.0	930 / 930	Contig_24_88.0643	40645..41574		CP002621.1
+vf_NG0045ba.tsv	virulence_ent	camE	99.6	501 / 501	Contig_18_51.5603	500089..500589	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0045ba.tsv	virulence_ent	camE	99.6	501 / 501	Contig_18_51.5603	500089..500589	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0045ba.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_35_56.2391	13947..17258		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	ebpB	99.86	1431 / 1431	Contig_35_56.2391	17262..18692		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_35_56.2391	18689..20572		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	efaAfs	99.78	927 / 927	Contig_17_52.2834	75483..76409		FP929058.1
+vf_NG0045ba.tsv	virulence_ent	gelE	100.0	971 / 1530	Contig_18_51.5603	81848..82818		355320029
+vf_NG0045ba.tsv	virulence_ent	gelE	100.0	971 / 1530	Contig_18_51.5603	81848..82818		CP003726.1
+vf_NG0045ba.tsv	virulence_ent	hylA	99.94	3266 / 3264	Contig_33_78.6415	441..3706		CP002491.1
+vf_NG0045ba.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_15_69.5647	22538..23047		CP002621.1
+vf_NG0057bd.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0057bd.tsv	virulence_ent	ElrA	100.0	2172 / 2172	Contig_35_46.1478	90449..92620		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_87_51.8926	27928..28662		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	ace	96.99	2025 / 2025	Contig_48_41.2446	36075..38099	collagen adhesin precursor	AE016830.1
+vf_NG0057bd.tsv	virulence_ent	agg	96.12	3920 / 3918	Contig_10_38.5532	10100..14017	aggregation substance	CP002493.1
+vf_NG0057bd.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_100_50.3322	4175..5002		CP002491.1
+vf_NG0057bd.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_100_50.3322	4175..5002		CP002621.1
+vf_NG0057bd.tsv	virulence_ent	cOB1	99.88	819 / 819	Contig_5_43.8179	2140..2958		CP002491.1
+vf_NG0057bd.tsv	virulence_ent	cad	99.78	930 / 930	Contig_70_57.5195	6009..6938		CP002621.1
+vf_NG0057bd.tsv	virulence_ent	camE	100.0	501 / 501	Contig_11_40.1944	3514..4014	sex pheromone cAM373 precursor	AF435440.1
+vf_NG0057bd.tsv	virulence_ent	camE	100.0	501 / 501	Contig_11_40.1944	3514..4014	sex pheromone cAM373 precursor	AF435441.1
+vf_NG0057bd.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_49_36.4436	7375..10686		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_49_36.4436	10690..12120		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_49_36.4436	12117..14000		CP002491.1
+vf_NG0057bd.tsv	virulence_ent	efaAfs	100.0	927 / 927	Contig_6_40.5695	22400..23326		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	fsrB	100.0	729 / 729	Contig_81_31.4655	10144..10872	biofilm formation	CP003726.1
+vf_NG0057bd.tsv	virulence_ent	gelE	100.0	1530 / 1530	Contig_81_31.4655	7037..8566		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	hylA	99.94	3266 / 3266	Contig_87_51.8926	915..4180		CP003726.1
+vf_NG0057bd.tsv	virulence_ent	hylB	99.6	2997 / 3015	Contig_96_47.548	1982..4978		CP002621.1
+vf_NG0057bd.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_37_40.4904	38843..39352		CP003726.1
+vf_NG0069bb.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0069bb.tsv	virulence_ent	ElrA	99.72	2172 / 2172	Contig_45_42.4395	11767..13938		CP003726.1
+vf_NG0069bb.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_83_47.3592	13263..13997		295112306
+vf_NG0069bb.tsv	virulence_ent	ace	97.59	1743 / 1743	Contig_64_36.2593	5398..7140	collagen adhesin precursor	AF260879.1
+vf_NG0069bb.tsv	virulence_ent	agg	94.45	3910 / 3906	Contig_72_44.3977	34165..38046	aggregation substance	AF454824.1
+vf_NG0069bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_4_47.1417	84244..85071		FP929058.1
+vf_NG0069bb.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_55_37.7178	4877..5695		CP002621.1
+vf_NG0069bb.tsv	virulence_ent	cad	99.89	930 / 930	Contig_90_52.9119	4458..5387		CP003726.1
+vf_NG0069bb.tsv	virulence_ent	camE	99.8	501 / 501	Contig_41_36.631	93736..94236	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0069bb.tsv	virulence_ent	camE	99.8	501 / 501	Contig_41_36.631	93736..94236	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0069bb.tsv	virulence_ent	cylA	100.0	1239 / 1239	Contig_22_18.5353	434..1672		AD1CLYL
+vf_NG0069bb.tsv	virulence_ent	cylB	99.86	2145 / 2145	Contig_22_18.5353	1669..3813		AD1CLYL
+vf_NG0069bb.tsv	virulence_ent	cylL	100.0	207 / 207	Contig_72_44.3977	1102..1308		AY032999.1
+vf_NG0069bb.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_64_36.2593	14732..18043		295112306
+vf_NG0069bb.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_64_36.2593	13298..14728		295112306
+vf_NG0069bb.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_64_36.2593	11418..13301		295112306
+vf_NG0069bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_13_39.6057	35715..36641		CP002621.1
+vf_NG0069bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_13_39.6057	35715..36641		EFU03756
+vf_NG0069bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_13_39.6057	35715..36641		FP929058.1
+vf_NG0069bb.tsv	virulence_ent	gelE	99.93	1530 / 1530	Contig_96_32.8178	13424..14953		CP002491.1
+vf_NG0069bb.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_5_44.736	6419..9533		CP002491.1
+vf_NG0069bb.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_32_44.6665	22314..22820		295112306
+vf_NG0070bb.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0070bb.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_61_51.3408	12170..14341		CP003726.1
+vf_NG0070bb.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_48_58.3565	58484..59218		295112306
+vf_NG0070bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_39_55.9956	70128..70955		FP929058.1
+vf_NG0070bb.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_2_50.7013	4592..5410		CP002621.1
+vf_NG0070bb.tsv	virulence_ent	cad	99.89	930 / 930	Contig_27_59.2934	125631..126560		CP003726.1
+vf_NG0070bb.tsv	virulence_ent	camE	99.8	501 / 501	Contig_45_43.0478	93957..94457	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0070bb.tsv	virulence_ent	camE	99.8	501 / 501	Contig_45_43.0478	93957..94457	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0070bb.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_22_43.2302	40697..44008		CP002491.1
+vf_NG0070bb.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_22_43.2302	44012..45442		CP002491.1
+vf_NG0070bb.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_22_43.2302	45439..47322		CP002491.1
+vf_NG0070bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_10_45.6105	39570..40496		CP002621.1
+vf_NG0070bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_10_45.6105	39570..40496		EFU03756
+vf_NG0070bb.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_10_45.6105	39570..40496		FP929058.1
+vf_NG0070bb.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_48_58.3565	78981..82096		CP002491.1
+vf_NG0070bb.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_26_54.026	22419..22925		295112306
+vf_NG0071ba.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0071ba.tsv	virulence_ent	ElrA	99.72	2172 / 2172	Contig_35_375.109	151222..153393		CP003726.1
+vf_NG0071ba.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_27_415.333	22879..23613		295112306
+vf_NG0071ba.tsv	virulence_ent	ace	97.53	1743 / 1743	Contig_5_341.23	44399..46141	collagen adhesin precursor	AF260879.1
+vf_NG0071ba.tsv	virulence_ent	agg	93.87	3912 / 3906	Contig_11_428.751	21760..25641	aggregation substance	AF454824.1
+vf_NG0071ba.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_50_439.657	253003..253830		FP929058.1
+vf_NG0071ba.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_35_375.109	2649..3467		CP002621.1
+vf_NG0071ba.tsv	virulence_ent	cad	99.89	930 / 930	Contig_38_460.187	4313..5242		CP003726.1
+vf_NG0071ba.tsv	virulence_ent	camE	99.6	501 / 501	Contig_13_316.343	6990..7490	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0071ba.tsv	virulence_ent	camE	99.6	501 / 501	Contig_13_316.343	6990..7490	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0071ba.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_5_341.23	33496..36807		295112306
+vf_NG0071ba.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_5_341.23	36811..38241		295112306
+vf_NG0071ba.tsv	virulence_ent	ebpC	99.95	1884 / 1884	Contig_5_341.23	38238..40121		295112306
+vf_NG0071ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_36_348.838	4988..5914		CP002621.1
+vf_NG0071ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_36_348.838	4988..5914		EFU03756
+vf_NG0071ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_36_348.838	4988..5914		FP929058.1
+vf_NG0071ba.tsv	virulence_ent	gelE	99.87	1531 / 1530	Contig_42_332.78	14026..15556		CP002491.1
+vf_NG0071ba.tsv	virulence_ent	hylA	99.55	3116 / 3264	Contig_27_415.333	1..3116		CP002491.1
+vf_NG0071ba.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_3_390.048	39333..39839		295112306
+vf_NG0087bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0087bf.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_37_46.296	153879..156050		CP003726.1
+vf_NG0087bf.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_42_53.414	22879..23613		295112306
+vf_NG0087bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_36_54.9837	18556..19383		FP929058.1
+vf_NG0087bf.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_37_46.296	5307..6125		CP002621.1
+vf_NG0087bf.tsv	virulence_ent	cad	99.89	930 / 930	Contig_80_55.0256	4458..5387		CP003726.1
+vf_NG0087bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_90_36.93	93967..94467	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0087bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_90_36.93	93967..94467	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0087bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_58_41.8804	8455..11766		CP002491.1
+vf_NG0087bf.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_58_41.8804	7021..8451		CP002491.1
+vf_NG0087bf.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_58_41.8804	5141..7024		CP002491.1
+vf_NG0087bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_40.0366	39570..40496		CP002621.1
+vf_NG0087bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_40.0366	39570..40496		EFU03756
+vf_NG0087bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_40.0366	39570..40496		FP929058.1
+vf_NG0087bf.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_42_53.414	1..3116		CP002491.1
+vf_NG0087bf.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_22_48.0314	22419..22925		295112306
+vf_NG0107bb.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0107bb.tsv	virulence_ent	ElrA	99.95	2172 / 2172	Contig_30_64.2233	57816..59987		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	SrtA	99.86	735 / 735	Contig_42_67.8725	76913..77647		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_38_74.4185	16182..17009		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_38_74.4185	16182..17009		CP002621.1
+vf_NG0107bb.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_39_60.0325	145499..146317		295112306
+vf_NG0107bb.tsv	virulence_ent	cad	100.0	930 / 930	Contig_24_78.3477	6218..7147		CP002621.1
+vf_NG0107bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_26_48.6418	171073..171573	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0107bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_26_48.6418	171073..171573	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0107bb.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_31_56.7683	8455..11766		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	ebpB	99.86	1431 / 1431	Contig_31_56.7683	7021..8451		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_31_56.7683	5141..7024		CP002491.1
+vf_NG0107bb.tsv	virulence_ent	efaAfs	99.78	927 / 927	Contig_27_49.7203	45256..46182		FP929058.1
+vf_NG0107bb.tsv	virulence_ent	gelE	100.0	971 / 1530	Contig_27_49.7203	203541..204511		355320029
+vf_NG0107bb.tsv	virulence_ent	gelE	100.0	971 / 1530	Contig_27_49.7203	203541..204511		CP003726.1
+vf_NG0107bb.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_13_66.5351	22538..23047		CP002621.1
+vf_NG0111bb.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0111bb.tsv	virulence_ent	SrtA	99.46	735 / 735	Contig_31_90.6019	64589..65323		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	agg	95.1	3921 / 3918	Contig_1_84.3922_Circ	52525..56442	aggregation substance	CP002493.1
+vf_NG0111bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_23_97.4694	34225..35052		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_23_97.4694	34225..35052		CP002621.1
+vf_NG0111bb.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_3_81.6902	67426..68244		CP002621.1
+vf_NG0111bb.tsv	virulence_ent	cad	100.0	930 / 930	Contig_31_90.6019	257029..257958		CP002621.1
+vf_NG0111bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_36_74.4341	103566..104066	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0111bb.tsv	virulence_ent	camE	99.6	501 / 501	Contig_36_74.4341	103566..104066	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0111bb.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_27_77.4292	8455..11766		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_27_77.4292	7021..8451		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_27_77.4292	5141..7024		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	efaAfs	99.57	927 / 927	Contig_16_77.0264	12190..13116		AE016830.1
+vf_NG0111bb.tsv	virulence_ent	fsrB	99.18	729 / 729	Contig_38_73.0982	416..1144	biofilm formation	CP002621.1
+vf_NG0111bb.tsv	virulence_ent	gelE	99.28	1530 / 1530	Contig_38_73.0982	2722..4251		CP002491.1
+vf_NG0111bb.tsv	virulence_ent	hylB	99.57	3015 / 3015	Contig_30_89.1948	15826..18840		AE016830.1
+vf_NG0111bb.tsv	virulence_ent	tpx	99.8	510 / 510	Contig_24_84.2965	22653..23162		CP002621.1
+vf_NG0111bc.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0111bc.tsv	virulence_ent	ElrA	99.72	2172 / 2172	Contig_16_95.6208	247921..250092		CP003726.1
+vf_NG0111bc.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_21_97.6748	22879..23613		295112306
+vf_NG0111bc.tsv	virulence_ent	ace	97.53	1743 / 1743	Contig_22_88.2865	108649..110391	collagen adhesin precursor	AF260879.1
+vf_NG0111bc.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_45_101.116	45194..46021		CP002491.1
+vf_NG0111bc.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_45_101.116	45194..46021		CP002621.1
+vf_NG0111bc.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_16_95.6208	99350..100168		CP002621.1
+vf_NG0111bc.tsv	virulence_ent	cad	100.0	930 / 930	Contig_29_109.8	40647..41576		CP002621.1
+vf_NG0111bc.tsv	virulence_ent	camE	99.8	501 / 501	Contig_54_87.6961	93745..94245	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0111bc.tsv	virulence_ent	camE	99.8	501 / 501	Contig_54_87.6961	93745..94245	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0111bc.tsv	virulence_ent	ebpA	99.97	3312 / 3312	Contig_22_88.2865	117983..121294		295112306
+vf_NG0111bc.tsv	virulence_ent	ebpB	99.93	1431 / 1431	Contig_22_88.2865	116549..117979		295112306
+vf_NG0111bc.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_22_88.2865	114669..116552		295112306
+vf_NG0111bc.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_90.5764	56579..57505		CP002621.1
+vf_NG0111bc.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_90.5764	56579..57505		EFU03756
+vf_NG0111bc.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_90.5764	56579..57505		FP929058.1
+vf_NG0111bc.tsv	virulence_ent	gelE	99.93	1530 / 1530	Contig_10_88.4258	20580..22109		CP002491.1
+vf_NG0111bc.tsv	virulence_ent	hylA	99.55	3116 / 3264	Contig_21_97.6748	1..3116		CP002491.1
+vf_NG0111bc.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_30_97.8799	22850..23356		295112306
+vf_NG0115bd.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0115bd.tsv	virulence_ent	SrtA	99.46	735 / 735	Contig_43_68.1124	54918..55652		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	agg	95.1	3921 / 3918	Contig_18_116.147	45266..49183	aggregation substance	CP002493.1
+vf_NG0115bd.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_36_71.1093	34220..35047		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_36_71.1093	34220..35047		CP002621.1
+vf_NG0115bd.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_1_63.4463	67426..68244		CP002621.1
+vf_NG0115bd.tsv	virulence_ent	cad	100.0	930 / 930	Contig_43_68.1124	247358..248287		CP002621.1
+vf_NG0115bd.tsv	virulence_ent	camE	99.6	501 / 501	Contig_15_58.7677	171068..171568	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0115bd.tsv	virulence_ent	camE	99.6	501 / 501	Contig_15_58.7677	171068..171568	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0115bd.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_32_61.3535	8455..11766		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_32_61.3535	7021..8451		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_32_61.3535	5141..7024		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	efaAfs	99.57	927 / 927	Contig_14_59.0898	12190..13116		AE016830.1
+vf_NG0115bd.tsv	virulence_ent	fsrB	99.18	729 / 729	Contig_42_56.5118	416..1144	biofilm formation	CP002621.1
+vf_NG0115bd.tsv	virulence_ent	gelE	99.28	1530 / 1530	Contig_42_56.5118	2722..4251		CP002491.1
+vf_NG0115bd.tsv	virulence_ent	hylB	99.57	3015 / 3015	Contig_38_68.236	15826..18840		AE016830.1
+vf_NG0115bd.tsv	virulence_ent	tpx	99.8	510 / 510	Contig_28_65.8223	22653..23162		CP002621.1
+vf_NG0131ba.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0131ba.tsv	virulence_ent	ElrA	100.0	2172 / 2172	Contig_17_24.834	90163..92334		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_102_28.437	27926..28660		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	ace	96.94	2025 / 2025	Contig_136_24.2457	37497..39521	collagen adhesin precursor	AE016830.1
+vf_NG0131ba.tsv	virulence_ent	agg	96.12	3920 / 3918	Contig_115_20.5079	6197..10114	aggregation substance	CP002493.1
+vf_NG0131ba.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_68_26.9829	14511..15338		CP002491.1
+vf_NG0131ba.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_68_26.9829	14511..15338		CP002621.1
+vf_NG0131ba.tsv	virulence_ent	cOB1	99.88	819 / 819	Contig_72_24.408	4222..5040		CP002491.1
+vf_NG0131ba.tsv	virulence_ent	cad	99.78	930 / 930	Contig_21_37.0713	6814..7743		CP002621.1
+vf_NG0131ba.tsv	virulence_ent	camE	100.0	501 / 501	Contig_15_21.7955	3514..4014	sex pheromone cAM373 precursor	AF435440.1
+vf_NG0131ba.tsv	virulence_ent	camE	100.0	501 / 501	Contig_15_21.7955	3514..4014	sex pheromone cAM373 precursor	AF435441.1
+vf_NG0131ba.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_12_22.449	7400..10711		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_12_22.449	5966..7396		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_12_22.449	4086..5969		CP002491.1
+vf_NG0131ba.tsv	virulence_ent	efaAfs	100.0	927 / 927	Contig_49_24.4299	35609..36535		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	fsrB	100.0	729 / 729	Contig_5_23.0353	10444..11172	biofilm formation	CP003726.1
+vf_NG0131ba.tsv	virulence_ent	gelE	100.0	1530 / 1530	Contig_5_23.0353	7337..8866		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	hylA	99.94	3266 / 3266	Contig_102_28.437	913..4178		CP003726.1
+vf_NG0131ba.tsv	virulence_ent	hylB	99.6	3015 / 3015	Contig_4_28.9326	1979..4993		CP002621.1
+vf_NG0131ba.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_58_23.8276	38843..39352		CP003726.1
+vf_NG0149be.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0149be.tsv	virulence_ent	ElrA	99.95	2172 / 2172	Contig_13_13.774	21596..23767		CP003726.1
+vf_NG0149be.tsv	virulence_ent	ace	97.75	1331 / 1743	Contig_42_18.3695	6091..7421	collagen adhesin precursor	AF260878.1
+vf_NG0149be.tsv	virulence_ent	agg	96.12	3920 / 3918	Contig_286_64.9626	13510..17427	aggregation substance	CP002493.1
+vf_NG0149be.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_237_14.0798	16266..17093		CP002491.1
+vf_NG0149be.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_237_14.0798	16266..17093		CP002621.1
+vf_NG0149be.tsv	virulence_ent	cOB1	99.75	793 / 819	Contig_132_15.3086	1..793		CP002491.1
+vf_NG0149be.tsv	virulence_ent	cad	99.76	826 / 930	Contig_302_12.8844	1..826		CP002621.1
+vf_NG0149be.tsv	virulence_ent	camE	100.0	501 / 501	Contig_214_13.885	1086..1586	sex pheromone cAM373 precursor	AF435440.1
+vf_NG0149be.tsv	virulence_ent	camE	100.0	501 / 501	Contig_214_13.885	1086..1586	sex pheromone cAM373 precursor	AF435441.1
+vf_NG0149be.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_82_15.494	14090..17401		CP003726.1
+vf_NG0149be.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_82_15.494	17405..18835		CP003726.1
+vf_NG0149be.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_82_15.494	18832..20715		CP002491.1
+vf_NG0149be.tsv	virulence_ent	efaAfs	100.0	927 / 927	Contig_200_13.7829	20147..21073		CP003726.1
+vf_NG0149be.tsv	virulence_ent	fsrB	100.0	538 / 729	Contig_17_14.6876	11356..11893	biofilm formation	CP003726.1
+vf_NG0149be.tsv	virulence_ent	gelE	100.0	1530 / 1530	Contig_261_13.386	22182..23711		CP003726.1
+vf_NG0149be.tsv	virulence_ent	hylA	99.94	3104 / 3266	Contig_28_17.2557	5586..8689		CP003726.1
+vf_NG0149be.tsv	virulence_ent	hylB	99.6	3015 / 3015	Contig_303_14.305	14742..17756		CP002621.1
+vf_NG0149be.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_258_17.3735	3029..3538		CP003726.1
+vf_NG0151be.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0151be.tsv	virulence_ent	ElrA	100.0	2172 / 2172	Contig_30_66.1328	90803..92974		CP003726.1
+vf_NG0151be.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_45_78.3088	27928..28662		CP003726.1
+vf_NG0151be.tsv	virulence_ent	ace	96.77	1825 / 2025	Contig_17_62.069	62720..64544	collagen adhesin precursor	AF260874.1
+vf_NG0151be.tsv	virulence_ent	agg	96.12	3920 / 3918	Contig_47_168.702	26908..30825	aggregation substance	CP002493.1
+vf_NG0151be.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_49_76.1231	79839..80666		CP002491.1
+vf_NG0151be.tsv	virulence_ent	cCF10	99.76	828 / 828	Contig_49_76.1231	79839..80666		CP002621.1
+vf_NG0151be.tsv	virulence_ent	cOB1	99.88	819 / 819	Contig_18_73.8704	49272..50090		CP002491.1
+vf_NG0151be.tsv	virulence_ent	cad	99.78	930 / 930	Contig_34_107.164	6009..6938		CP002621.1
+vf_NG0151be.tsv	virulence_ent	camE	100.0	501 / 501	Contig_5_62.7253	3514..4014	sex pheromone cAM373 precursor	AF435440.1
+vf_NG0151be.tsv	virulence_ent	camE	100.0	501 / 501	Contig_5_62.7253	3514..4014	sex pheromone cAM373 precursor	AF435441.1
+vf_NG0151be.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_17_62.069	14432..17743		CP003726.1
+vf_NG0151be.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_17_62.069	17747..19177		CP003726.1
+vf_NG0151be.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_17_62.069	19174..21057		CP002491.1
+vf_NG0151be.tsv	virulence_ent	efaAfs	100.0	927 / 927	Contig_21_61.7147	77830..78756		CP003726.1
+vf_NG0151be.tsv	virulence_ent	fsrB	100.0	729 / 729	Contig_48_61.5333	158526..159254	biofilm formation	CP003726.1
+vf_NG0151be.tsv	virulence_ent	gelE	100.0	1530 / 1530	Contig_48_61.5333	155419..156948		CP003726.1
+vf_NG0151be.tsv	virulence_ent	hylA	99.94	3266 / 3266	Contig_45_78.3088	915..4180		CP003726.1
+vf_NG0151be.tsv	virulence_ent	hylB	99.6	3015 / 3015	Contig_50_73.9708	1982..4996		CP002621.1
+vf_NG0151be.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_32_68.4145	40834..41343		CP003726.1
+vf_NG0158be.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0158be.tsv	virulence_ent	SrtA	99.34	453 / 735	Contig_93_10.2762	4568..5020		CP002491.1
+vf_NG0158be.tsv	virulence_ent	agg	95.1	3921 / 3918	Contig_600_46.1732	16064..19981	aggregation substance	CP002493.1
+vf_NG0158be.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_573_13.5101	4170..4997		CP002491.1
+vf_NG0158be.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_573_13.5101	4170..4997		CP002621.1
+vf_NG0158be.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_429_11.5721	5174..5992		CP002621.1
+vf_NG0158be.tsv	virulence_ent	cad	100.0	930 / 930	Contig_147_12.3577	1526..2455		CP002621.1
+vf_NG0158be.tsv	virulence_ent	camE	99.6	501 / 501	Contig_57_11.6668	2924..3424	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0158be.tsv	virulence_ent	camE	99.6	501 / 501	Contig_57_11.6668	2924..3424	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0158be.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_413_12.192	8455..11766		CP002491.1
+vf_NG0158be.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_413_12.192	7021..8451		CP002491.1
+vf_NG0158be.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_413_12.192	5141..7024		CP002491.1
+vf_NG0158be.tsv	virulence_ent	fsrB	99.18	729 / 729	Contig_198_12.2285	10126..10854	biofilm formation	CP002621.1
+vf_NG0158be.tsv	virulence_ent	gelE	99.28	1530 / 1530	Contig_198_12.2285	7019..8548		CP002491.1
+vf_NG0158be.tsv	virulence_ent	tpx	99.8	510 / 510	Contig_166_13.5633	2588..3097		CP002621.1
+vf_NG0158bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0158bf.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_27_69.6102	245724..247895		CP003726.1
+vf_NG0158bf.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_37_77.0283	58755..59489		295112306
+vf_NG0158bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_34_75.3731	157131..157958		FP929058.1
+vf_NG0158bf.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_27_69.6102	97152..97970		CP002621.1
+vf_NG0158bf.tsv	virulence_ent	cad	99.89	930 / 930	Contig_7_76.32	114583..115512		CP003726.1
+vf_NG0158bf.tsv	virulence_ent	camE	99.6	501 / 501	Contig_51_62.1466	93967..94467	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0158bf.tsv	virulence_ent	camE	99.6	501 / 501	Contig_51_62.1466	93967..94467	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0158bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_19_58.5806	40697..44008		CP002491.1
+vf_NG0158bf.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_19_58.5806	44012..45442		CP002491.1
+vf_NG0158bf.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_19_58.5806	45439..47322		CP002491.1
+vf_NG0158bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_66.0805	39570..40496		CP002621.1
+vf_NG0158bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_66.0805	39570..40496		EFU03756
+vf_NG0158bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_66.0805	39570..40496		FP929058.1
+vf_NG0158bf.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_37_77.0283	79252..82367		CP002491.1
+vf_NG0158bf.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_21_74.322	22419..22925		295112306
+vf_NG0176bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0176bf.tsv	virulence_ent	ElrA	99.95	2172 / 2172	Contig_50_77.3128	246648..248819		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_47_89.8786	44923..45657		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_49_88.7396	80861..81688		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_49_88.7396	80861..81688		CP002621.1
+vf_NG0176bf.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_50_77.3128	95812..96630		295112306
+vf_NG0176bf.tsv	virulence_ent	cad	99.89	930 / 930	Contig_30_96.6366	40643..41572		CP002621.1
+vf_NG0176bf.tsv	virulence_ent	camE	99.4	501 / 501	Contig_14_67.941	410418..410918	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0176bf.tsv	virulence_ent	camE	99.4	501 / 501	Contig_14_67.941	410418..410918	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0176bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_35_71.7673	8455..11766		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	ebpB	99.93	1431 / 1431	Contig_35_71.7673	7021..8451		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_35_71.7673	5141..7024		CP002491.1
+vf_NG0176bf.tsv	virulence_ent	efaAfs	99.78	927 / 927	Contig_33_71.0069	26766..27692		FP929058.1
+vf_NG0176bf.tsv	virulence_ent	gelE	99.9	971 / 1530	Contig_33_71.0069	185179..186149		355320029
+vf_NG0176bf.tsv	virulence_ent	gelE	99.9	971 / 1530	Contig_33_71.0069	185179..186149		CP003726.1
+vf_NG0176bf.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_19_82.1158	22631..23140		CP002621.1
+vf_NG0259be.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0259be.tsv	virulence_ent	ElrA	99.95	2172 / 2172	Contig_5_156.308	90169..92340		CP002491.1
+vf_NG0259be.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_47_196.921	44923..45657		CP002491.1
+vf_NG0259be.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_29_204.685	112996..113823		CP002491.1
+vf_NG0259be.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_29_204.685	112996..113823		CP002621.1
+vf_NG0259be.tsv	virulence_ent	cOB1	99.63	819 / 819	Contig_52_165.946	95812..96630		295112306
+vf_NG0259be.tsv	virulence_ent	cad	99.89	930 / 930	Contig_34_225.205	41090..42019		CP002621.1
+vf_NG0259be.tsv	virulence_ent	camE	99.4	501 / 501	Contig_36_147.973	19791..20291	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0259be.tsv	virulence_ent	camE	99.4	501 / 501	Contig_36_147.973	19791..20291	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0259be.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_39_144.087	8455..11766		CP002491.1
+vf_NG0259be.tsv	virulence_ent	ebpB	99.93	1431 / 1431	Contig_39_144.087	7021..8451		CP002491.1
+vf_NG0259be.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_39_144.087	5141..7024		CP002491.1
+vf_NG0259be.tsv	virulence_ent	efaAfs	99.78	927 / 927	Contig_22_149.063	75610..76536		FP929058.1
+vf_NG0259be.tsv	virulence_ent	gelE	99.9	971 / 1530	Contig_27_150.446	81782..82752		355320029
+vf_NG0259be.tsv	virulence_ent	gelE	99.9	971 / 1530	Contig_27_150.446	81782..82752		CP003726.1
+vf_NG0259be.tsv	virulence_ent	hylA	99.94	3266 / 3264	Contig_47_196.921	65421..68686		CP002491.1
+vf_NG0259be.tsv	virulence_ent	tpx	100.0	510 / 510	Contig_23_172.505	22631..23140		CP002621.1
+vf_NG0292be.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0292be.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_12_32.5022	14994..17165		CP003726.1
+vf_NG0292be.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_53_41.2586	58484..59218		295112306
+vf_NG0292be.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_40_38.3234	70128..70955		FP929058.1
+vf_NG0292be.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_2_35.3523	4592..5410		CP002621.1
+vf_NG0292be.tsv	virulence_ent	cad	99.89	930 / 930	Contig_28_44.4881	28004..28933		CP003726.1
+vf_NG0292be.tsv	virulence_ent	camE	99.8	501 / 501	Contig_17_29.7666	2666..3166	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0292be.tsv	virulence_ent	camE	99.8	501 / 501	Contig_17_29.7666	2666..3166	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0292be.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_50_29.8301	8455..11766		CP002491.1
+vf_NG0292be.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_50_29.8301	7021..8451		CP002491.1
+vf_NG0292be.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_50_29.8301	5141..7024		CP002491.1
+vf_NG0292be.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_32.8187	42288..43214		CP002621.1
+vf_NG0292be.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_32.8187	42288..43214		EFU03756
+vf_NG0292be.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_51_32.8187	42288..43214		FP929058.1
+vf_NG0292be.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_53_41.2586	78981..82096		CP002491.1
+vf_NG0292be.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_67_38.0028	23831..24337		295112306
+vf_NG0292bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0292bf.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_2_77.5537	153164..155335		CP003726.1
+vf_NG0292bf.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_41_87.7633	58755..59489		295112306
+vf_NG0292bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_33_87.0919	70128..70955		FP929058.1
+vf_NG0292bf.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_2_77.5537	4592..5410		CP002621.1
+vf_NG0292bf.tsv	virulence_ent	cad	99.89	930 / 930	Contig_23_96.4464	28004..28933		CP003726.1
+vf_NG0292bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_62_66.9182	93967..94467	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0292bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_62_66.9182	93967..94467	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0292bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_22_65.4516	40780..44091		CP002491.1
+vf_NG0292bf.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_22_65.4516	44095..45525		CP002491.1
+vf_NG0292bf.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_22_65.4516	45522..47405		CP002491.1
+vf_NG0292bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_68.736	39570..40496		CP002621.1
+vf_NG0292bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_68.736	39570..40496		EFU03756
+vf_NG0292bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_9_68.736	39570..40496		FP929058.1
+vf_NG0292bf.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_41_87.7633	79252..82367		CP002491.1
+vf_NG0292bf.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_52_86.1124	23831..24337		295112306
+vf_NG0297bf.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0297bf.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_39_16.3633	49445..51616		CP003726.1
+vf_NG0297bf.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_149_17.7448	11920..12654		295112306
+vf_NG0297bf.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_158_16.6701	18533..19360		FP929058.1
+vf_NG0297bf.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_74_14.8924	7930..8748		CP002621.1
+vf_NG0297bf.tsv	virulence_ent	cad	99.89	930 / 930	Contig_98_16.4814	2714..3643		CP003726.1
+vf_NG0297bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_76_14.3155	19098..19598	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0297bf.tsv	virulence_ent	camE	99.8	501 / 501	Contig_76_14.3155	19098..19598	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0297bf.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_123_14.6914	8455..11766		CP002491.1
+vf_NG0297bf.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_123_14.6914	7021..8451		CP002491.1
+vf_NG0297bf.tsv	virulence_ent	ebpC	100.0	1884 / 1884	Contig_123_14.6914	5141..7024		CP002491.1
+vf_NG0297bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_31_15.6223	36233..37159		CP002621.1
+vf_NG0297bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_31_15.6223	36233..37159		EFU03756
+vf_NG0297bf.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_31_15.6223	36233..37159		FP929058.1
+vf_NG0297bf.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_78_16.5486	7822..10937		CP002491.1
+vf_NG0297bf.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_47_18.0612	3557..4063		295112306
+vf_NG0353ba.tsv	Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+vf_NG0353ba.tsv	virulence_ent	ElrA	99.68	2172 / 2172	Contig_32_13.0775	14613..16784		CP003726.1
+vf_NG0353ba.tsv	virulence_ent	SrtA	100.0	735 / 735	Contig_185_15.9291	22879..23613		295112306
+vf_NG0353ba.tsv	virulence_ent	ace	99.09	1096 / 1743	Contig_181_12.2108	13..1108	collagen adhesin precursor	AF260879.1
+vf_NG0353ba.tsv	virulence_ent	cCF10	100.0	828 / 828	Contig_153_17.2133	14536..15363		FP929058.1
+vf_NG0353ba.tsv	virulence_ent	cOB1	99.76	819 / 819	Contig_2_13.4099	4592..5410		CP002621.1
+vf_NG0353ba.tsv	virulence_ent	cad	99.89	930 / 930	Contig_219_19.595	2837..3766		CP003726.1
+vf_NG0353ba.tsv	virulence_ent	camE	99.8	501 / 501	Contig_324_12.9463	9972..10472	sex pheromone cAM373 precursor	AF435437.1
+vf_NG0353ba.tsv	virulence_ent	camE	99.8	501 / 501	Contig_324_12.9463	9972..10472	sex pheromone cAM373 precursor	AF435438.1
+vf_NG0353ba.tsv	virulence_ent	ebpA	100.0	3312 / 3312	Contig_359_15.0636	182..3493		CP002491.1
+vf_NG0353ba.tsv	virulence_ent	ebpB	100.0	1431 / 1431	Contig_359_15.0636	3497..4927		CP002491.1
+vf_NG0353ba.tsv	virulence_ent	ebpC	100.0	1189 / 1884	Contig_181_12.2108	5137..6325		CP002491.1
+vf_NG0353ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_262_14.3989	1245..2171		CP002621.1
+vf_NG0353ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_262_14.3989	1245..2171		EFU03756
+vf_NG0353ba.tsv	virulence_ent	efaAfs	99.46	927 / 927	Contig_262_14.3989	1245..2171		FP929058.1
+vf_NG0353ba.tsv	virulence_ent	hylA	99.52	3116 / 3264	Contig_185_15.9291	1..3116		CP002491.1
+vf_NG0353ba.tsv	virulence_ent	tpx	99.8	507 / 510	Contig_269_16.2428	21..527		295112306

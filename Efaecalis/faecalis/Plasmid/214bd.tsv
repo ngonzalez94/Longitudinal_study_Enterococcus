@@ -1,0 +1,38 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	260	505	+	MFCPJC_00005		DUF4878 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A068AA04
+contig_1	cds	827	961	-	MFCPJC_00010		hypothetical protein	
+contig_1	cds	1349	3274	+	MFCPJC_00015	tet(S)	tetracycline resistance ribosomal protection protein Tet(S)	BlastRules:WP_063856411, NCBIProtein:WP_000691722.1, SO:0001217, UniRef:UniRef50_P10952
+contig_1	cds	4155	5783	+	MFCPJC_00020		Tnp-DDE-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1C6L4B7
+contig_1	cds	5965	6519	-	MFCPJC_00025		Integrase/recombinase	SO:0001217, UniRef:UniRef50_A0A1A0DLF2
+contig_1	cds	6868	8067	+	MFCPJC_00030		Uncharacterized protein HI_1038	SO:0001217, UniRef:UniRef50_P44099
+contig_1	ncRNA	8137	8329	+	MFCPJC_00035	rli28	Listeria sRNA rli28	RFAM:RF01492, SO:0000655
+contig_1	cds	8429	8581	+	MFCPJC_00040		hypothetical protein	
+contig_1	cds	8629	8757	-	MFCPJC_00045		hypothetical protein	
+contig_1	cds	8754	9575	-	MFCPJC_00050		Putative integrase	SO:0001217, UniRef:UniRef50_B3CKE5
+contig_1	cds	10167	10802	-	MFCPJC_00055		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_R8GN77
+contig_1	cds	10946	11341	-	MFCPJC_00060		hypothetical protein	
+contig_1	cds	11359	12138	-	MFCPJC_00065		hypothetical protein	
+contig_1	cds	12252	12479	+	MFCPJC_00070		hypothetical protein	
+contig_1	cds	12611	13099	-	MFCPJC_00075		hypothetical protein	PFAM:PF13276.9
+contig_1	cds	13102	13365	-	MFCPJC_00080		Transposase	SO:0001217, UniRef:UniRef50_R2Q599
+contig_1	cds	13634	13813	+	MFCPJC_00085		hypothetical protein	PFAM:PF06993.15
+contig_1	cds	13864	14265	-	MFCPJC_00090		hypothetical protein	
+contig_1	cds	14249	14767	-	MFCPJC_00095		Phage protein	SO:0001217, UniRef:UniRef50_B3CKE8
+contig_1	cds	14739	16118	-	MFCPJC_00100		ImpB/MucB/SamB family protein	SO:0001217, UniRef:UniRef50_E7FUL7
+contig_1	cds	16374	16745	-	MFCPJC_00105		Inner membrane protein	SO:0001217, UniRef:UniRef50_A0A242AS32
+contig_1	cds	16747	17658	-	MFCPJC_00110		AAA-31 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A829F575
+contig_1	oriC	17659	18210	?			origin of replication	
+contig_1	cds	18175	19710	+	MFCPJC_00115		Putative replication protein	SO:0001217, UniRef:UniRef50_B3CK96
+contig_1	oriC	19728	20056	?			origin of replication	
+contig_1	cds	20057	20227	+	MFCPJC_00120		hypothetical protein	
+contig_1	cds	20193	20858	+	MFCPJC_00125		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_B2GBH8
+contig_1	cds	20858	23002	+	MFCPJC_00130		DNA topoisomerase	SO:0001217, UniRef:UniRef50_A0A376GWW1
+contig_1	cds	23142	23375	+	MFCPJC_00135	mazE	Antitoxin MazE	SO:0001217, UniRef:UniRef50_A0A8H9BZC3
+contig_1	sorf	23424	23507	+	MFCPJC_00140		rRNA methylase leader peptide	SO:0001217, UniRef:UniRef50_B4XKC7
+contig_1	cds	23632	24369	+	MFCPJC_00145	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	NCBIProtein:WP_001038795.1, SO:0001217, UniRef:UniRef50_P21236
+contig_1	cds	24374	24505	+	MFCPJC_00150		hypothetical protein	

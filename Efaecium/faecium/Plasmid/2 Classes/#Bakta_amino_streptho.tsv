@@ -1,0 +1,88 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	293	865	-	AOICDG_00005		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A4F5E1
+contig_1	cds	1141	1935	-	AOICDG_00010	aph(3')-IIIa	aminoglycoside O-phosphotransferase APH(3')-IIIa	NCBIProtein:WP_001096887.1, SO:0001217, UniRef:UniRef50_P0A3Y5
+contig_1	cds	2028	2570	-	AOICDG_00015	sat4	streptothricin N-acetyltransferase Sat4	NCBIProtein:WP_000627290.1, SO:0001217, UniRef:UniRef50_D2J6B1
+contig_1	cds	2567	3475	-	AOICDG_00020	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_001255866.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	3508	4242	-	AOICDG_00025		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	4223	5092	-	AOICDG_00030		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	5195	5440	-	AOICDG_00035		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A4Y7RJC8
+contig_1	cds	6092	6751	-	AOICDG_00040		5-amino-6-(5-phosphoribosylamino) uracil reductase	SO:0001217, UniRef:UniRef50_A0A0D5C6K7
+contig_1	cds	6981	7661	-	AOICDG_00045	tnp	IS6 family IS1216E transposase	IS:IS1216E, SO:0001217, UniRef:UniRef50_A0A7U8IR59
+contig_1	cds	7699	7863	-	AOICDG_00050		hypothetical protein	
+contig_1	cds	7875	8069	-	AOICDG_00055		Phage protein	SO:0001217, UniRef:UniRef50_S4CBC3
+contig_1	cds	8222	8428	-	AOICDG_00060		hypothetical protein	
+contig_1	cds	8430	8741	-	AOICDG_00065		Phage protein	SO:0001217, UniRef:UniRef50_A0A125W6H9
+contig_1	cds	8731	9327	-	AOICDG_00070	Tn3 resolvase	Transposon Tn3 resolvase	SO:0001217, UniRef:UniRef50_A0A6N3EZA4
+contig_1	cds	9514	10038	-	AOICDG_00075		Thioredoxin	SO:0001217, UniRef:UniRef50_R3HL47
+contig_1	cds	10040	10450	-	AOICDG_00080		hypothetical protein	PFAM:PF00085.23, PFAM:PF13098.9
+contig_1	cds	10452	12464	-	AOICDG_00085		ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_R3JY11
+contig_1	cds	12407	12514	-	AOICDG_00090		hypothetical protein	
+contig_1	cds	12606	13751	-	AOICDG_00095		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_R3KCQ2
+contig_1	cds	13830	14024	-	AOICDG_00100		hypothetical protein	
+contig_1	cds	14260	14583	+	AOICDG_00105		PTS EIIB type-3 domain-containing protein	SO:0001217, UniRef:UniRef50_T0U855
+contig_1	cds	14843	15502	-	AOICDG_00110		Transcriptional regulator	SO:0001217, UniRef:UniRef50_E0H9E5
+contig_1	cds	16759	18219	-	AOICDG_00115	pcfV	PcfV	SO:0001217, UniRef:UniRef50_S4CIS9
+contig_1	cds	18382	18555	-	AOICDG_00120		hypothetical protein	
+contig_1	cds	18604	18936	-	AOICDG_00125		hypothetical protein	
+contig_1	cds	19028	19462	-	AOICDG_00130		ADF-H domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Q1FZA6
+contig_1	cds	19648	20376	-	AOICDG_00135		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A5F0UYZ0
+contig_1	ncRNA	20764	20914	+	AOICDG_00140	Enterococcus-1	Enterococcus-1 RNA	RFAM:RF02973, SO:0000655
+contig_1	cds	21026	22285	-	AOICDG_00145		PcfJ-like protein	SO:0001217, UniRef:UniRef50_A0A0M2AEE0
+contig_1	cds	22285	23064	-	AOICDG_00150		DUF4241 domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1I2
+contig_1	cds	23295	23468	-	AOICDG_00155	pcfM	PcfM protein	SO:0001217, UniRef:UniRef50_E6EVE3
+contig_1	cds	23471	23656	-	AOICDG_00160		TPR-REGION domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1J6Y4A7
+contig_1	ncRNA	24078	24227	+	AOICDG_00165	Enterococcus-1	Enterococcus-1 RNA	RFAM:RF02973, SO:0000655
+contig_1	cds	24459	24734	-	AOICDG_00170	yafQ	Type II toxin-antitoxin system YafQ family toxin	SO:0001217, UniRef:UniRef50_A0A173X0U3
+contig_1	cds	24727	24993	-	AOICDG_00175		hypothetical protein	PFAM:PF04221.15
+contig_1	cds	25104	25688	-	AOICDG_00180		TNase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A146F1F0
+contig_1	cds	25712	26128	-	AOICDG_00185		hypothetical protein	PFAM:PF00436.28
+contig_1	cds	26226	26720	-	AOICDG_00190		J domain-containing protein	SO:0001217, UniRef:UniRef50_B1Q2R9
+contig_1	cds	26753	27019	-	AOICDG_00195		Phage protein	SO:0001217, UniRef:UniRef50_A0A125W6C0
+contig_1	cds	27611	28099	-	AOICDG_00200		DUF262 domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1H7
+contig_1	cds	28105	28890	-	AOICDG_00205		Protein involved in plasmid replication-relaxation	SO:0001217, UniRef:UniRef50_A0A242B1N1
+contig_1	cds	29412	31670	-	AOICDG_00210		AAA domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1H2
+contig_1	cds	31657	34002	-	AOICDG_00215		Amino acid transporter	SO:0001217, UniRef:UniRef50_Q9F1H1
+contig_1	cds	34014	34358	-	AOICDG_00220		Lipoprotein	SO:0001217, UniRef:UniRef50_Q9F1H0
+contig_1	cds	34375	36867	-	AOICDG_00225		AAA domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1G9
+contig_1	cds	36971	37429	-	AOICDG_00230		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A3R9HH18
+contig_1	cds	37519	37995	-	AOICDG_00235		hypothetical protein	
+contig_1	cds	38033	38422	-	AOICDG_00240		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_Q82YT1
+contig_1	cds	38422	38682	-	AOICDG_00245		hypothetical protein	
+contig_1	cds	38687	39721	-	AOICDG_00250		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_R2NU49
+contig_1	cds	39714	40028	-	AOICDG_00255		hypothetical protein	
+contig_1	cds	40028	40444	-	AOICDG_00260		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_Q82YS8
+contig_1	cds	40428	41045	-	AOICDG_00265		Consensus disorder prediction	SO:0001217, UniRef:UniRef50_E2YTZ7
+contig_1	cds	41048	42319	-	AOICDG_00270		CHAP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5F0UZN5
+contig_1	cds	42345	43205	-	AOICDG_00275		hypothetical protein	PFAM:PF00746.24
+contig_1	cds	43225	44103	-	AOICDG_00280		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_Q9F1F8
+contig_1	cds	44114	44374	-	AOICDG_00285		PepSY domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1V3NFG8
+contig_1	cds	44443	44829	-	AOICDG_00290		Sensor histidine kinase	SO:0001217, UniRef:UniRef50_A0A0M2AEF0
+contig_1	cds	44851	45204	-	AOICDG_00295	prgU	pheromone response system RNA-binding regulator PrgU	BlastRules:WP_002367672, SO:0001217, UniRef:UniRef50_Q8KUD5
+contig_1	cds	45266	49183	-	AOICDG_00300		hypothetical protein	PFAM:PF00746.24, PFAM:PF16364.8, PFAM:PF17998.4, PFAM:PF18652.4, PFAM:PF19258.2
+contig_1	ncRNA	48869	48936	+	AOICDG_00305	refA5	Enterococcus sRNA A5	RFAM:RF02843, SO:0000655
+contig_1	cds	49499	49822	-	AOICDG_00310		hypothetical protein	
+contig_1	tRNA	49869	49939	-	AOICDG_00315	trnF	(pseudo) tRNA-Phe(gaa)	SO:0000267
+contig_1	cds	50419	53091	-	AOICDG_00320	sea1	surface exclusion protein SEA1/PrgA	BlastRules:WP_011109619, BlastRules:WP_032488489, SO:0001217, UniRef:UniRef50_A0A8E7CCH6
+contig_1	cds	53102	53407	-	AOICDG_00325	prgT	Putative regulatory protein PrgT	SO:0001217, UniRef:UniRef50_P0DH73
+contig_1	cds	53989	54345	-	AOICDG_00330		Tox-ART-HYD1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4U3M8Z0
+contig_1	ncRNA	54695	54797	+	AOICDG_00335	Anti-Q_RNA	Anti-Q RNA	RFAM:RF00388, SO:0000655
+contig_1	cds	55165	56121	+	AOICDG_00340		Transcriptional activator, Rgg/GadR/MutR family domain protein	SO:0001217, UniRef:UniRef50_E2YU11
+contig_1	cds	56125	57717	-	AOICDG_00345	traC	TraC protein	SO:0001217, UniRef:UniRef50_Q7CC22
+contig_1	cds	57782	58948	-	AOICDG_00350	traB	Pheromone shutdown protein TraB	SO:0001217, UniRef:UniRef50_Q82YU8
+contig_1	cds	58992	59999	-	AOICDG_00355		Replication initiator protein A	SO:0001217, UniRef:UniRef50_C7D4S5
+contig_1	cds	60394	61296	+	AOICDG_00360		CobQ/CobB/MinD/ParA nucleotide binding domain protein	SO:0001217, UniRef:UniRef50_E2YYW6
+contig_1	cds	61300	61641	+	AOICDG_00365		Replication-associated protein	SO:0001217, UniRef:UniRef50_A0A0M2AEU0
+contig_1	cds	61800	62096	-	AOICDG_00370	prgN	Type III secretion system protein PrgN	SO:0001217, UniRef:UniRef50_A0A242L7Z2
+contig_1	ncRNA	62228	62291	+	AOICDG_00375	refA9	Enterococcus sRNA A9	RFAM:RF02844, SO:0000655
+contig_1	cds	62544	63149	-	AOICDG_00380		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_R3WQK9
+contig_1	cds	63280	66252	+	AOICDG_00385	Putative transposase	Putative transposase	SO:0001217, UniRef:UniRef50_Q6LWD4
+contig_1	cds	66625	67455	-	AOICDG_00390		Undecaprenyl-diphosphatase	SO:0001217, UniRef:UniRef50_Q5WNX2
+contig_1	cds	67455	68204	-	AOICDG_00395	bcrB	Bacitracin transport permease protein BcrB	SO:0001217, UniRef:UniRef50_Q5WNX1
+contig_1	cds	68197	69114	-	AOICDG_00400	drrA	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	SO:0001217, UniRef:UniRef50_A0A1G4FPB4
+contig_1	cds	69297	69911	-	AOICDG_00405	bcrR	HTH-type transcriptional activator BcrR	SO:0001217, UniRef:UniRef50_Q5WNW9
+contig_1	cds	69901	70098	-	AOICDG_00410		DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A7W8HCF9

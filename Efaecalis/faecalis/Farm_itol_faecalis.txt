@@ -1,0 +1,68 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	Farm
+FIELD_LABELS	Farm
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+COLOR_BRANCHES	0
+
+
+#dataset color (can be changed later)
+#COLOR	#000000
+LEGEND_TITLE	Farm
+LEGEND_SHAPES	1	1	1	
+LEGEND_COLORS	#ffd248	#3d85c6	#cc0000
+LEGEND_LABELS	1	2	3	
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+NG0027bf	#3d85c6	2
+NG0029bb	#3d85c6	2
+NG0045ba	#3d85c6	2
+NG0050ba	#cc0000	3
+NG0057bd	#cc0000	3
+NG0063bd	#cc0000	3
+NG0063bf	#cc0000	3
+NG0069bb	#ffd248	1
+NG0070bb	#ffd248	1
+NG0071ba	#ffd248	1
+NG0087bf	#3d85c6	2
+NG0099be	#3d85c6	2
+NG0107bb	#3d85c6	2
+NG0111bb	#3d85c6	2
+NG0111bc	#3d85c6	2
+NG0115bd	#3d85c6	2
+NG0131ba	#cc0000	3
+NG0149be	#ffd248	1
+NG0151be	#ffd248	1
+NG0152ba	#ffd248	1
+NG0158be	#cc0000	3
+NG0158bf	#cc0000	3
+NG0176bf	#3d85c6	2
+NG0214bc	#3d85c6	2
+NG0214bd	#3d85c6	2
+NG0220bc	#3d85c6	2
+NG0220bd	#3d85c6	2
+NG0259be	#3d85c6	2
+NG0292be	#ffd248	1
+NG0292bf	#ffd248	1
+NG0297be	#ffd248	1
+NG0297bf	#ffd248	1
+NG0298be	#ffd248	1
+NG0353ba	#ffd248	1

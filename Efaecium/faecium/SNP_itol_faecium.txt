@@ -1,0 +1,119 @@
+DATASET_BINARY
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	Genes associated with antimicrobial resistance
+
+
+
+#dataset color (can be changed later)
+COLOR	#423795
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+#When all children of a node have the same color, it will be colored the same, ie. the color will propagate inwards towards the root.
+COLOR_BRANCHES	0
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 5:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+
+#An example dataset with 4 columns (circle, left triangle, right triangle and rectangle):
+#field labels
+#field labels
+LEGEND_TITLE	Genes associated with antimicrobial resistance
+LEGEND_SHAPES	4	4
+LEGEND_LABELS	eat(A)_T450I	liaR_E75K	
+LEGEND_COLORS	#76a5af	#cfe2f3
+
+FIELD_SHAPES	4	4
+FIELD_LABELS	eat(A)_T450I	liaR_E75K	
+FIELD_COLORS	#76a5af	#cfe2f3
+
+
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#width of the colored strip
+#STRIP_WIDTH 25
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the color strip
+#BORDER_WIDTH 0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+
+DATA
+Sample	eat(A)_T450I	liaR_E75K
+NG0016bc	1	-1
+NG0016be	1	-1
+NG0049bc	1	-1
+NG0049be	1	-1
+NG0058ba	1	-1
+NG0060bb	1	-1
+NG0061bf	1	-1
+NG0063bc	1	-1
+NG0066bb	1	-1
+NG0073bf	1	1
+NG0114bd	1	-1
+NG0115ba	-1	1
+NG0180bc	-1	1
+NG0180bd	-1	1
+NG0181ba	-1	-1
+NG0181bc	-1	1
+NG0181bd	-1	1
+NG0184bc	-1	1
+NG0184bd	-1	1
+NG0184be	-1	1
+NG0187bc	-1	1
+NG0187bd	-1	1
+NG0189bc	-1	1
+NG0189bd	-1	1
+NG0190bc	-1	1
+NG0190bd	-1	1
+NG0194bc	-1	1
+NG0194bd	-1	1
+NG0197bc	-1	1
+NG0197bd	-1	1
+NG0222bc	-1	1
+NG0197bd	1	1	
+NG0188bd	1	1	
+NG0188bc	1	1	
+NG0063bf	1	1	

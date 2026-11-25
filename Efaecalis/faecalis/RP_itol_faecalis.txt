@@ -1,0 +1,67 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	Resistance profile
+FIELD_LABELS	Resistance profile
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+COLOR_BRANCHES	0
+
+
+#dataset color (can be changed later)
+#COLOR	#000000
+LEGEND_TITLE	Resistance profile
+LEGEND_SHAPES	1	1	1		
+LEGEND_COLORS	#3d85c6	#d47474	#444444
+LEGEND_LABELS	CIP-TET-TYL-ERY	CIP-TET-TYL	CIP-TYL-VAN
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+NG0027bf	#3d85c6	CIP-TET-TYL-ERY
+NG0029bb	#d47474	CIP-TET-TYL
+NG0045ba	#d47474	CIP-TET-TYL
+NG0050ba	#d47474	CIP-TET-TYL
+NG0057bd	#3d85c6	CIP-TET-TYL-ERY
+NG0063bd	#d47474	CIP-TET-TYL
+NG0063bf	#d47474	CIP-TET-TYL
+NG0069bb	#d47474	CIP-TET-TYL
+NG0070bb	#d47474	CIP-TET-TYL
+NG0071ba	#444444	CIP-TYL-VAN
+NG0087bf	#d47474	CIP-TET-TYL
+NG0099be	#d47474	CIP-TET-TYL
+NG0107bb	#d47474	CIP-TET-TYL
+NG0111bb	#d47474	CIP-TET-TYL
+NG0111bc	#d47474	CIP-TET-TYL
+NG0115bd	#d47474	CIP-TET-TYL
+NG0131ba	#d47474	CIP-TET-TYL
+NG0149be	#d47474	CIP-TET-TYL
+NG0151be	#d47474	CIP-TET-TYL
+NG0152ba	#d47474	CIP-TET-TYL
+NG0158be	#d47474	CIP-TET-TYL
+NG0158bf	#d47474	CIP-TET-TYL
+NG0176bf	#d47474	CIP-TET-TYL
+NG0214bc	#d47474	CIP-TET-TYL
+NG0214bd	#d47474	CIP-TET-TYL
+NG0220bc	#d47474	CIP-TET-TYL
+NG0220bd	#d47474	CIP-TET-TYL
+NG0259be	#d47474	CIP-TET-TYL
+NG0292be	#d47474	CIP-TET-TYL
+NG0292bf	#d47474	CIP-TET-TYL
+NG0297be	#3d85c6	CIP-TET-TYL-ERY
+NG0297bf	#d47474	CIP-TET-TYL
+NG0298be	#d47474	CIP-TET-TYL
+NG0353ba	#d47474	CIP-TET-TYL

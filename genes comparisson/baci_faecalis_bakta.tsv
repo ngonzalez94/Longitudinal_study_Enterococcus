@@ -1,0 +1,79 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	339	935	+	EGJCBB_00005		Transposon Tn3 resolvase	SO:0001217, UniRef:UniRef50_A0A6N3EZA4
+contig_1	cds	952	1239	+	EGJCBB_00010		Phage protein	SO:0001217, UniRef:UniRef50_A0A125W6H9
+contig_1	cds	1233	1457	+	EGJCBB_00015		hypothetical protein	
+contig_1	cds	1526	1726	+	EGJCBB_00020	uvrB	DNA helicase UvrB	SO:0001217, UniRef:UniRef50_Q82YQ9
+contig_1	cds	1747	2049	+	EGJCBB_00025		DUF6440 domain-containing protein	SO:0001217, UniRef:UniRef50_E0HAA5
+contig_1	cds	2478	3806	+	EGJCBB_00030		ImpB/MucB/SamB family protein	SO:0001217, UniRef:UniRef50_E7FUL7
+contig_1	cds	3803	4153	+	EGJCBB_00035		hypothetical protein	
+contig_1	ncRNA	4559	4622	-	EGJCBB_00040	refA9	Enterococcus sRNA A9	RFAM:RF02844, SO:0000655
+contig_1	cds	4754	5050	+	EGJCBB_00045	prgN	Type III secretion system protein PrgN	SO:0001217, UniRef:UniRef50_A0A242L7Z2
+contig_1	cds	5152	5427	-	EGJCBB_00050	prgO	Type III secretion system protein PrgO	SO:0001217, UniRef:UniRef50_A0A1X1FAZ8
+contig_1	cds	5405	6334	-	EGJCBB_00055		AAA-31 domain-containing protein	SO:0001217, UniRef:UniRef50_D3LCQ4
+contig_1	oriC	6335	6580	?			origin of replication	
+contig_1	cds	6581	7582	+	EGJCBB_00060		Replication initiator protein A	SO:0001217, UniRef:UniRef50_C7D4S5
+contig_1	cds	7741	9378	+	EGJCBB_00065	traC	peptide pheromone-binding protein TraC	BlastRules:WP_032488758, SO:0001217, UniRef:UniRef50_Q7CC22
+contig_1	cds	9389	10543	+	EGJCBB_00070	traB	TraB family protein	SO:0001217, UniRef:UniRef50_C7D4S4
+contig_1	cds	10576	11529	-	EGJCBB_00075	prgX	transcriptional regulator PrgX	BlastRules:WP_002366018, SO:0001217, UniRef:UniRef50_Q04114
+contig_1	ncRNA	11844	11945	-	EGJCBB_00080	Anti-Q_RNA	Anti-Q RNA	RFAM:RF00388, SO:0000655
+contig_1	cds	12291	12671	+	EGJCBB_00085	prgR	Type III secretion system protein PrgR	SO:0001217, UniRef:UniRef50_S4CBN2
+contig_1	cds	12671	12928	+	EGJCBB_00090		DNA-binding protein	SO:0001217, UniRef:UniRef50_C7D5E0
+contig_1	cds	13232	13546	+	EGJCBB_00095		hypothetical protein	
+contig_1	cds	13557	16232	+	EGJCBB_00100	sea1	surface exclusion protein SEA1/PrgA	BlastRules:WP_011109619, BlastRules:WP_032488489, SO:0001217, UniRef:UniRef50_A0A8E7CCH6
+contig_1	cds	16426	20316	+	EGJCBB_00105	asa1	LPXTG-anchored aggregation substance Asa1	BlastRules:WP_010785625
+contig_1	ncRNA	16673	16740	-	EGJCBB_00110	refA5	Enterococcus sRNA A5	RFAM:RF02843, SO:0000655
+contig_1	cds	20378	20731	+	EGJCBB_00115	prgU	pheromone response system RNA-binding regulator PrgU	BlastRules:WP_002367672, SO:0001217, UniRef:UniRef50_Q8KUD5
+contig_1	cds	20753	21139	+	EGJCBB_00120		Sensor histidine kinase	SO:0001217, UniRef:UniRef50_A0A0M2AEF0
+contig_1	cds	21208	21468	+	EGJCBB_00125		PepSY domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1V3NFG8
+contig_1	cds	21479	22357	+	EGJCBB_00130	Conjugal transfer protein	Conjugal transfer protein	SO:0001217, UniRef:UniRef50_Q9F1F8
+contig_1	cds	22377	23237	+	EGJCBB_00135		hypothetical protein	PFAM:PF00746.24
+contig_1	cds	23263	24534	+	EGJCBB_00140		CHAP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5F0UZN5
+contig_1	cds	24537	25154	+	EGJCBB_00145		Consensus disorder prediction	SO:0001217, UniRef:UniRef50_E2YTZ7
+contig_1	cds	25138	25554	+	EGJCBB_00150		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_Q82YS8
+contig_1	cds	25554	25868	+	EGJCBB_00155		hypothetical protein	
+contig_1	cds	25861	26895	+	EGJCBB_00160	Conjugal transfer protein	Conjugal transfer protein	SO:0001217, UniRef:UniRef50_R2NU49
+contig_1	cds	26900	27160	+	EGJCBB_00165		hypothetical protein	
+contig_1	cds	27160	27549	+	EGJCBB_00170	Conjugal transfer protein	Conjugal transfer protein	SO:0001217, UniRef:UniRef50_Q82YT1
+contig_1	cds	27587	28063	+	EGJCBB_00175		hypothetical protein	
+contig_1	cds	28153	28611	+	EGJCBB_00180		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A3R9HH18
+contig_1	cds	28716	31208	+	EGJCBB_00185		AAA domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1G9
+contig_1	cds	31225	31569	+	EGJCBB_00190		Lipoprotein	SO:0001217, UniRef:UniRef50_Q9F1H0
+contig_1	cds	31581	33926	+	EGJCBB_00195		Amino acid transporter	SO:0001217, UniRef:UniRef50_Q9F1H1
+contig_1	cds	33913	36171	+	EGJCBB_00200		AAA domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1H2
+contig_1	cds	36693	37478	+	EGJCBB_00205		Protein involved in plasmid replication-relaxation	SO:0001217, UniRef:UniRef50_A0A242B1N1
+contig_1	cds	37484	37972	+	EGJCBB_00210		DUF262 domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1H7
+contig_1	cds	38564	38830	+	EGJCBB_00215		Phage protein	SO:0001217, UniRef:UniRef50_A0A125W6C0
+contig_1	cds	38863	39357	+	EGJCBB_00220		J domain-containing protein	SO:0001217, UniRef:UniRef50_B1Q2R9
+contig_1	cds	39455	39871	+	EGJCBB_00225		hypothetical protein	PFAM:PF00436.28
+contig_1	cds	39895	40479	+	EGJCBB_00230		TNase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A146F1F0
+contig_1	cds	40590	40856	+	EGJCBB_00235		hypothetical protein	PFAM:PF04221.15
+contig_1	cds	40849	41124	+	EGJCBB_00240	yafQ	Type II toxin-antitoxin system YafQ family toxin	SO:0001217, UniRef:UniRef50_A0A173X0U3
+contig_1	ncRNA	41356	41505	-	EGJCBB_00245	Enterococcus-1	Enterococcus-1 RNA	RFAM:RF02973, SO:0000655
+contig_1	cds	41927	42112	+	EGJCBB_00250		TPR-REGION domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1J6Y4A7
+contig_1	cds	42115	42288	+	EGJCBB_00255	pcfM	PcfM protein	SO:0001217, UniRef:UniRef50_E6EVE3
+contig_1	cds	42519	43298	+	EGJCBB_00260		DUF4241 domain-containing protein	SO:0001217, UniRef:UniRef50_Q9F1I2
+contig_1	cds	43298	44557	+	EGJCBB_00265		PcfJ-like protein	SO:0001217, UniRef:UniRef50_A0A0M2AEE0
+contig_1	ncRNA	44669	44819	-	EGJCBB_00270	Enterococcus-1	Enterococcus-1 RNA	RFAM:RF02973, SO:0000655
+contig_1	cds	45207	45935	+	EGJCBB_00275	Conjugal transfer protein	Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A5F0UYZ0
+contig_1	cds	46122	46556	+	EGJCBB_00280		ADF-H domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Q1FZA6
+contig_1	cds	46648	46980	+	EGJCBB_00285		hypothetical protein	
+contig_1	cds	47029	47202	+	EGJCBB_00290		hypothetical protein	
+contig_1	cds	47195	47854	+	EGJCBB_00295		DUF2786 domain-containing protein	SO:0001217, UniRef:UniRef50_S1RPG7
+contig_1	cds	47880	48059	+	EGJCBB_00300		hypothetical protein	
+contig_1	cds	48245	49705	+	EGJCBB_00305	pcfV	PcfV	SO:0001217, UniRef:UniRef50_S4CIS9
+contig_1	cds	49695	49808	+	EGJCBB_00310		hypothetical protein	
+contig_1	cds	50479	50817	-	EGJCBB_00315		Bacteriocin, lactococcin 972 family	SO:0001217, UniRef:UniRef50_S4C7G0
+contig_1	cds	51787	53085	-	EGJCBB_00320		hypothetical protein	
+contig_1	cds	53106	53471	-	EGJCBB_00325		hypothetical protein	
+contig_1	cds	54036	54599	+	EGJCBB_00330		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A150LGS2
+contig_1	cds	54626	57583	+	EGJCBB_00335	Transposase for transposon Tn4430	Transposase for transposon Tn4430	SO:0001217, UniRef:UniRef50_P10021
+contig_1	cds	57806	58165	-	EGJCBB_00340		hypothetical protein	PFAM:PF00239.24
+contig_1	cds	58365	58709	-	EGJCBB_00345	bcrC	quaternary ammonium compound efflux SMR transporter BcrC	NCBIProtein:WP_003725292.1, SO:0001217, UniRef:UniRef50_A0A024QE04
+contig_1	cds	58727	59044	-	EGJCBB_00350	bcrB	quaternary ammonium compound efflux SMR transporter BcrB	NCBIProtein:WP_003725293.1, SO:0001217, UniRef:UniRef50_A0A024QE04
+contig_1	cds	59056	59595	-	EGJCBB_00355	bcrA	efflux transporter transcriptional regulator BcrA	BlastRules:WP_003725294, SO:0001217, UniRef:UniRef50_I7B1D2
+contig_1	cds	60138	61154	+	EGJCBB_00360		DNA-pol3-finger domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3F3NLY0

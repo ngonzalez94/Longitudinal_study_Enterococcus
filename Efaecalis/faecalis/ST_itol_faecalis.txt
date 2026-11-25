@@ -1,0 +1,68 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	ST
+FIELD_LABELS	ST
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+COLOR_BRANCHES	0
+
+
+#dataset color (can be changed later)
+#COLOR	#000000
+LEGEND_TITLE	ST
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	
+LEGEND_COLORS	#990000	#3d85c6	#ce7e00	#6aa84f	#f1c232	#c72379	#073763	#aaaaaa
+LEGEND_LABELS	19	21	25	40	97	155	283	NM
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+NG0027bf	#990000	19
+NG0029bb	#990000	19
+NG0045ba	#3d85c6	21
+NG0050ba	#aaaaaa	NM
+NG0057bd	#6aa84f	40
+NG0063bd	#aaaaaa	NM
+NG0063bf	#aaaaaa	NM
+NG0069bb	#c72379	155
+NG0070bb	#073763	283
+NG0071ba	#f1c232	97
+NG0087bf	#073763	283
+NG0099be	#aaaaaa	NM
+NG0107bb	#3d85c6	21
+NG0111bb	#990000	19
+NG0115bd	#990000	19
+NG0111bc	#ce7e00	25
+NG0131ba	#6aa84f	40
+NG0149be	#6aa84f	40
+NG0151be	#6aa84f	40
+NG0152ba	#aaaaaa	NM
+NG0158be	#aaaaaa	NM
+NG0158bf	#073763	283
+NG0176bf	#3d85c6	21
+NG0214bc	#aaaaaa	NM
+NG0214bd	#aaaaaa	NM
+NG0220bc	#aaaaaa	NM
+NG0220bd	#aaaaaa	NM
+NG0259be	#3d85c6	21
+NG0292be	#073763	283
+NG0292bf	#073763	283
+NG0297be	#aaaaaa	NM
+NG0297bf	#073763	283
+NG0298be	#aaaaaa	NM
+NG0353ba	#073763	283

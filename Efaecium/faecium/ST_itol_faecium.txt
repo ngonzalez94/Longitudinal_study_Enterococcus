@@ -1,0 +1,119 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR COMMA
+#SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+
+DATASET_LABEL	ST
+
+
+
+#dataset color (can be changed later)
+COLOR	#423795
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+#When all children of a node have the same color, it will be colored the same, ie. the color will propagate inwards towards the root.
+COLOR_BRANCHES	0
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 5:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+
+#An example dataset with 4 columns (circle, left triangle, right triangle and rectangle):
+#field labels
+#field labels
+LEGEND_TITLE	ST
+LEGEND_SHAPES	1	1	1	1	
+LEGEND_LABELS	771	870	22	NM	
+LEGEND_COLORS	#c60000	#f1c232	#674ea7	#bbbbbb
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#width of the colored strip
+#STRIP_WIDTH 25
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the color strip
+#BORDER_WIDTH 0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+
+DATA
+NG0016bc	#c60000	771
+NG0016be	#c60000	771
+NG0049bc	#bbbbbb	NM
+NG0049be	#c60000	771
+NG0058ba	#bbbbbb	NM
+NG0058be	#bbbbbb	NM
+NG0060bb	#bbbbbb	NM
+NG0061bf	#bbbbbb	NM
+NG0063bc	#bbbbbb	NM
+NG0063bf	#bbbbbb	NM
+NG0063bd	#bbbbbb	NM
+NG0066bb	#c60000	771
+NG0073bf	#c60000	771
+NG0114bd	#f1c232	870
+NG0115ba	#674ea7	22
+NG0115bd	#bbbbbb	NM
+NG0180bc	#674ea7	22
+NG0180bd	#674ea7	22
+NG0181ba	#bbbbbb	NM
+NG0181bc	#674ea7	22
+NG0181bd	#674ea7	22
+NG0184bc	#674ea7	22
+NG0184bd	#674ea7	22
+NG0184be	#674ea7	22
+NG0187bc	#bbbbbb	NM
+NG0187bd	#bbbbbb	NM
+NG0189bc	#674ea7	22
+NG0189bd	#674ea7	22
+NG0190bc	#674ea7	22
+NG0190bd	#674ea7	22
+NG0194bc	#674ea7	22
+NG0194bd	#674ea7	22
+NG0197bc	#674ea7	22
+NG0214bc	#674ea7	22
+NG0214bd	#674ea7	22
+NG0220bc	#674ea7	22
+NG0220bd	#674ea7	22
+NG0222bc	#674ea7	22
+
+
+
+

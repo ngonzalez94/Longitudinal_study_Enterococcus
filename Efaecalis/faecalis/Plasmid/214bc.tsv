@@ -1,0 +1,61 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	186	683	+	NNMAAC_00005		J domain-containing protein	SO:0001217, UniRef:UniRef50_B1Q2R9
+contig_1	cds	717	950	+	NNMAAC_00010		Phage protein	SO:0001217, UniRef:UniRef50_R2V4A1
+contig_1	cds	1044	1301	-	NNMAAC_00015	traD	Conjugal transfer protein TraD	SO:0001217, UniRef:UniRef50_B1Q2S0
+contig_1	cds	1304	1603	-	NNMAAC_00020	repB	Replication regulatory RepB family protein	SO:0001217, UniRef:UniRef50_B1Q2S1
+contig_1	oriT	1361	1407	?			origin of transfer	
+contig_1	cds	1895	3880	+	NNMAAC_00025		hypothetical protein	PFAM:PF18208.4
+contig_1	cds	3904	4236	+	NNMAAC_00030		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_E6LIQ6
+contig_1	cds	4255	4638	+	NNMAAC_00035		hypothetical protein	
+contig_1	cds	4655	5284	+	NNMAAC_00040		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_E6LIQ3
+contig_1	cds	5295	7256	+	NNMAAC_00045		P-loop-TraG domain-containing protein	SO:0001217, UniRef:UniRef50_E6LIQ2
+contig_1	cds	7270	8622	+	NNMAAC_00050	traF	Conjugal transfer protein traF	SO:0001217, UniRef:UniRef50_R2XRH3
+contig_1	cds	8644	9753	+	NNMAAC_00055		Peptidase C51 domain-containing protein	SO:0001217, UniRef:UniRef50_Q8L1D1
+contig_1	cds	9766	10317	+	NNMAAC_00060	lemA	LemA family protein	SO:0001217, UniRef:UniRef50_E6LIP9
+contig_1	cds	10322	10753	+	NNMAAC_00065		hypothetical protein	
+contig_1	cds	10746	12401	+	NNMAAC_00070		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A242ANI2
+contig_1	cds	12419	13342	+	NNMAAC_00075		Anti-sigma factor	SO:0001217, UniRef:UniRef50_A0A242AN31
+contig_1	cds	13344	14276	+	NNMAAC_00080	virB6	VirB6	SO:0001217, UniRef:UniRef50_A0A377L2G2
+contig_1	cds	14293	15261	+	NNMAAC_00085		Conserved domain protein	SO:0001217, UniRef:UniRef50_E6LIP4
+contig_1	cds	15290	15643	+	NNMAAC_00090		hypothetical protein	
+contig_1	cds	15988	16575	-	NNMAAC_00095		hypothetical protein	PFAM:PF01391.21
+contig_1	cds	16616	16855	+	NNMAAC_00100		hypothetical protein	PFAM:PF00746.24
+contig_1	ncRNA	17117	17299	-	NNMAAC_00105	RefB11	Enterococcus sRNA B11	RFAM:RF02848, SO:0000655
+contig_1	cds	17506	18186	-	NNMAAC_00110	tnp	IS6 family IS1216E transposase	IS:IS1216E, SO:0001217, UniRef:UniRef50_A0A7U8IR59
+contig_1	cds	18270	18473	+	NNMAAC_00115		hypothetical protein	
+contig_1	cds	19302	21242	+	NNMAAC_00120	tet(S)	tetracycline resistance ribosomal protection protein Tet(S)	BlastRules:WP_063856411, NCBIProtein:WP_000691722.1, SO:0001217, UniRef:UniRef50_P10952
+contig_1	cds	22123	23751	+	NNMAAC_00125		Tnp-DDE-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1C6L4B7
+contig_1	cds	23933	24487	-	NNMAAC_00130		Integrase/recombinase	SO:0001217, UniRef:UniRef50_A0A1A0DLF2
+contig_1	cds	24836	26035	+	NNMAAC_00135		Uncharacterized protein HI_1038	SO:0001217, UniRef:UniRef50_P44099
+contig_1	ncRNA	26105	26297	+	NNMAAC_00140	rli28	Listeria sRNA rli28	RFAM:RF01492, SO:0000655
+contig_1	cds	26597	26725	-	NNMAAC_00145		hypothetical protein	
+contig_1	cds	26722	27069	-	NNMAAC_00150		hypothetical protein	
+contig_1	cds	28135	28749	-	NNMAAC_00155		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_R8GN77
+contig_1	cds	28914	29309	-	NNMAAC_00160		hypothetical protein	
+contig_1	cds	29327	30049	-	NNMAAC_00165		hypothetical protein	
+contig_1	cds	30220	30447	+	NNMAAC_00170		hypothetical protein	
+contig_1	cds	30579	31067	-	NNMAAC_00175		hypothetical protein	PFAM:PF13276.9
+contig_1	cds	31070	31333	-	NNMAAC_00180		Transposase	SO:0001217, UniRef:UniRef50_R2Q599
+contig_1	cds	31422	31781	+	NNMAAC_00185	ypaA	Uncharacterized protein YpaA	SO:0001217, UniRef:UniRef50_Q02009
+contig_1	cds	31832	32125	-	NNMAAC_00190		hypothetical protein	
+contig_1	cds	32217	32741	-	NNMAAC_00195		Phage protein	SO:0001217, UniRef:UniRef50_B3CKE8
+contig_1	cds	32707	34086	-	NNMAAC_00200		ImpB/MucB/SamB family protein	SO:0001217, UniRef:UniRef50_E7FUL7
+contig_1	cds	34342	34713	-	NNMAAC_00205		Inner membrane protein	SO:0001217, UniRef:UniRef50_A0A242AS32
+contig_1	cds	34715	35626	-	NNMAAC_00210		AAA-31 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A829F575
+contig_1	oriC	35627	36178	?			origin of replication	
+contig_1	cds	36179	37678	+	NNMAAC_00215		Putative replication protein	SO:0001217, UniRef:UniRef50_B3CK96
+contig_1	oriC	37696	38024	?			origin of replication	
+contig_1	cds	38025	38195	+	NNMAAC_00220		hypothetical protein	
+contig_1	cds	38209	38826	+	NNMAAC_00225		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_B2GBH8
+contig_1	cds	38826	40970	+	NNMAAC_00230		DNA topoisomerase	SO:0001217, UniRef:UniRef50_A0A376GWW1
+contig_1	cds	41110	41343	+	NNMAAC_00235	mazE	Antitoxin MazE	SO:0001217, UniRef:UniRef50_A0A8H9BZC3
+contig_1	sorf	41392	41475	+	NNMAAC_00240		rRNA methylase leader peptide	SO:0001217, UniRef:UniRef50_B4XKC7
+contig_1	cds	41600	42337	+	NNMAAC_00245	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	NCBIProtein:WP_001038795.1, SO:0001217, UniRef:UniRef50_P21236
+contig_1	cds	42870	43766	+	NNMAAC_00250		AAA-31 domain-containing protein	SO:0001217, UniRef:UniRef50_Q0WYL3
+contig_1	cds	43864	44073	+	NNMAAC_00255		Omega-Repress domain-containing protein	SO:0001217, UniRef:UniRef50_A0A242B058
+contig_1	cds	44091	44363	+	NNMAAC_00260		hypothetical protein	PFAM:PF08998.14

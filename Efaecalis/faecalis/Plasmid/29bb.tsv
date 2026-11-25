@@ -1,0 +1,15 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	51	731	+	MOLMKI_00005	tnp	IS6 family IS1216E transposase	IS:IS1216E, SO:0001217, UniRef:UniRef50_A0A7U8IR59
+contig_1	cds	961	1620	+	MOLMKI_00010		5-amino-6-(5-phosphoribosylamino) uracil reductase	SO:0001217, UniRef:UniRef50_A0A0D5C6K7
+contig_1	cds	2272	2517	+	MOLMKI_00015		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A4Y7RJC8
+contig_1	cds	2620	3489	+	MOLMKI_00020		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	3470	4204	+	MOLMKI_00025		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	4237	5145	+	MOLMKI_00030	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_001255866.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	5142	5684	+	MOLMKI_00035	sat4	streptothricin N-acetyltransferase Sat4	NCBIProtein:WP_000627290.1, SO:0001217, UniRef:UniRef50_D2J6B1
+contig_1	cds	5777	6571	+	MOLMKI_00040	aph(3')-IIIa	aminoglycoside O-phosphotransferase APH(3')-IIIa	NCBIProtein:WP_001096887.1, SO:0001217, UniRef:UniRef50_P0A3Y5
+contig_1	cds	6847	7419	+	MOLMKI_00045		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A4F5E1

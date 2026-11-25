@@ -1,0 +1,18 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	27	269	+	BCCFPH_00005		hypothetical protein	
+contig_1	cds	1110	1778	+	BCCFPH_00010		Recombinase	SO:0001217, UniRef:UniRef50_A0A1L8QMR8
+contig_1	cds	1921	2145	+	BCCFPH_00015		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R9MIZ2
+contig_1	cds	2160	3029	+	BCCFPH_00020		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	3010	3744	+	BCCFPH_00025		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	3777	4640	+	BCCFPH_00030	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_002294505.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	4684	5211	+	BCCFPH_00035		Hypoxanthine-guanine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_I6QMJ7
+contig_1	cds	5343	6152	+	BCCFPH_00040	spw	ANT(9) family aminoglycoside nucleotidyltransferase Spw	NCBIProtein:WP_002294509.1, SO:0001217, UniRef:UniRef50_P0A0D0
+contig_1	cds	6331	6621	+	BCCFPH_00045		hypothetical protein	
+contig_1	cds	6672	7127	-	BCCFPH_00050		Maf-like protein	SO:0001217, UniRef:UniRef50_A0A848RG83
+contig_1	cds	7192	7776	+	BCCFPH_00055		Site-specific recombinase	SO:0001217, UniRef:UniRef50_A0A0H5SEL5
+contig_1	cds	8219	9703	+	BCCFPH_00060	lsa(E)	ABC-F type ribosomal protection protein Lsa(E)	BlastRules:WP_002294513, NCBIProtein:WP_002294513.1, SO:0001217, UniRef:UniRef50_A0A6F9XJ05

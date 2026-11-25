@@ -1,0 +1,16 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	64	354	+	GEBDIP_00005		hypothetical protein	
+contig_1	cds	398	925	+	GEBDIP_00010		Hypoxanthine-guanine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_I6QMJ7
+contig_1	cds	1057	1866	+	GEBDIP_00015	spw	ANT(9) family aminoglycoside nucleotidyltransferase Spw	NCBIProtein:WP_002294509.1, SO:0001217, UniRef:UniRef50_P0A0D0
+contig_1	cds	2084	2335	+	GEBDIP_00020		RNA methyltransferase	SO:0001217, UniRef:UniRef50_A0A1C6DY78
+contig_1	cds	2386	2844	-	GEBDIP_00025		Maf-like protein	SO:0001217, UniRef:UniRef50_A0A848RG83
+contig_1	cds	3005	3490	+	GEBDIP_00030		Site-specific recombinase	SO:0001217, UniRef:UniRef50_A0A0H5SEL5
+contig_1	cds	3933	5417	+	GEBDIP_00035	lsa(E)	ABC-F type ribosomal protection protein Lsa(E)	BlastRules:WP_002294513, NCBIProtein:WP_002294513.1, SO:0001217, UniRef:UniRef50_A0A6F9XJ05
+contig_1	cds	5471	6274	+	GEBDIP_00040	lnu(B)	lincosamide nucleotidyltransferase Lnu(B)	NCBIProtein:WP_002294514.1, SO:0001217, UniRef:UniRef50_Q9WVY4
+contig_1	cds	7115	7783	+	GEBDIP_00045		Recombinase	SO:0001217, UniRef:UniRef50_A0A1L8QMR8
+contig_1	cds	7926	8150	+	GEBDIP_00050		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R9MIZ2

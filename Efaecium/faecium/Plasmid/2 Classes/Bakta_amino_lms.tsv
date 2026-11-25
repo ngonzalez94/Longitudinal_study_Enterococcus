@@ -1,0 +1,12 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	61	399	+	KCBPCN_00005		hypothetical protein	
+contig_1	cds	396	650	+	KCBPCN_00010		hypothetical protein	
+contig_1	cds	969	1763	+	KCBPCN_00015	aph(3')-IIIa	aminoglycoside O-phosphotransferase APH(3')-IIIa	NCBIProtein:WP_001096887.1, SO:0001217, UniRef:UniRef50_P0A3Y5
+contig_1	sorf	2305	2388	+	KCBPCN_00020		rRNA methylase leader peptide	SO:0001217, UniRef:UniRef50_B4XKC7
+contig_1	cds	2511	3243	+	KCBPCN_000XX	erm(B)	macrolide resistance gene	SO:0001217, UniRef:UniRef50_B4XKC7
+

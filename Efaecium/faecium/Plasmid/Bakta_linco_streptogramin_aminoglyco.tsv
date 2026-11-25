@@ -1,0 +1,18 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	179	1663	+	HIIPOM_00005	lsa(E)	ABC-F type ribosomal protection protein Lsa(E)	BlastRules:WP_002294513, NCBIProtein:WP_002294513.1, SO:0001217, UniRef:UniRef50_A0A6F9XJ05
+contig_1	cds	1717	2520	+	HIIPOM_00010	lnu(B)	lincosamide nucleotidyltransferase Lnu(B)	NCBIProtein:WP_002294514.1, SO:0001217, UniRef:UniRef50_Q9WVY4
+contig_1	cds	3361	4029	+	HIIPOM_00015		Recombinase	SO:0001217, UniRef:UniRef50_A0A1L8QMR8
+contig_1	cds	4172	4396	+	HIIPOM_00020		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R9MIZ2
+contig_1	cds	4411	5280	+	HIIPOM_00025		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	5261	5995	+	HIIPOM_00030		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	6028	6891	+	HIIPOM_00035	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_002294505.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	6935	7462	+	HIIPOM_00040		Hypoxanthine-guanine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_I6QMJ7
+contig_1	cds	7594	8403	+	HIIPOM_00045	spw	ANT(9) family aminoglycoside nucleotidyltransferase Spw	NCBIProtein:WP_002294509.1, SO:0001217, UniRef:UniRef50_P0A0D0
+contig_1	cds	8582	8872	+	HIIPOM_00050		hypothetical protein	
+contig_1	cds	8923	9378	-	HIIPOM_00055		Maf-like protein	SO:0001217, UniRef:UniRef50_A0A848RG83
+contig_1	cds	9443	10027	+	HIIPOM_00060		Site-specific recombinase	SO:0001217, UniRef:UniRef50_A0A0H5SEL5

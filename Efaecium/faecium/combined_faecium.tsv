@@ -1,0 +1,1006 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number	source_file
+virulence_ent	acm	99.91	2121 / 2166	Contig_14_115.054	1..2121		CP003351.1	188bc_results_tab
+virulence_ent	efaAfm	90.82	861 / 879	Contig_49_110.873	85540..86400		AF042288.1	188bc_results_tab
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_14_115.054	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	188bc_results_tab
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_5_103.942	61488..62906	E. faecium community variant C59	NZ_WLYR01000001.1	188bc_results_tab
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_45_101.027	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	188bc_results_tab
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_12_213.836	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_12_213.836	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	188bc_results_tab
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_12_213.836	3633..5510	E. faecium hospital variant Efm	CP003583.1	188bc_results_tab
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_49_110.873	53426..55123	E. faecium variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_49_110.873	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_10_117.215	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	188bc_results_tab
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_49_110.873	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	188bc_results_tab
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_47_95.8386	14854..16933	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	188bc_results_tab
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_47_95.8386	14854..16933	E. lactis variant TX1330	GG669059.1	188bc_results_tab
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_47_95.8386	11064..13040	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	188bc_results_tab
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_33_96.1642	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	188bc_results_tab
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_50_98.6449	76978..77535	E. faecium variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_50_98.6449	81791..82693	E. faecium variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_50_98.6449	81517..81759	E. faecium variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_50_98.6449	76704..76946	E. faecium variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_33_96.1642	124319..124933	E. faecium hospital variant	CP003583.1	188bc_results_tab
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_49_110.873	82485..83093	E. faecium variant	CP003583.1	188bc_results_tab
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_2_99.2883	37958..38581	E. faecium hospital variant	CP003583.1	188bc_results_tab
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_7_97.4568	66687..67322	E. faecium variant	CP003583.1	188bc_results_tab
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_50_98.6449	50867..51787	E. faecium community variant	NZ_ABQJ01000017.1	188bc_results_tab
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_35_116.064	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_35_116.064	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	188bc_results_tab
+virulence_ent	acm	99.91	2119 / 2166	Contig_404_89.7094	1..2119		CP003351.1	188bd_results_tab
+virulence_entfm_entls	IS16-Entfm-hosp	100.0	1188 / 1188	Contig_403_28.6339	216..1403	E. faecium hospital variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	acm-Entfm-com	99.95	2119 / 2166	Contig_404_89.7094	1..2119	E. faecium community variant C59	NZ_WLYR01000013.1	188bd_results_tab
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_464_96.1211	11810..13228	E. faecium community variant C59	NZ_WLYR01000001.1	188bd_results_tab
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_151_30.3745	12075..13082	E. faecium hospital variant	CP003583.1	188bd_results_tab
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_186_79.2286	14328..15329	E. faecium community variant C59	NZ_WLYR01000003.1	188bd_results_tab
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_110_121.953	331..1752	E. faecium community variant C59	NZ_WLYR01000036.1	188bd_results_tab
+virulence_entfm_entls	empC-Entfm-hosp	99.51	1430 / 1878	Contig_177_125.852	1..1430	E. faecium hospital variant Efm	CP003583.1	188bd_results_tab
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_337_86.3226	1683..3380	E. faecium variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_9_55.2902	1277..5314	E. faecium hospital variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	fms15-Entfm-hosp	99.07	1944 / 2769	Contig_367_88.9676	1..1944	E. faecium hospital variant E1636	ABRY01000026.1	188bd_results_tab
+virulence_entfm_entls	fms17-Entfm-com	99.84	1277 / 1314	Contig_9_55.2902	1..1277	E. faecium community variant C59	NZ_WLYR01000016.1	188bd_results_tab
+virulence_entfm_entls	fms20-Entls	99.85	1323 / 2091	Contig_307_81.1919	1..1323	E. lactis variant TX1330	GG669059.1	188bd_results_tab
+virulence_entfm_entls	fms21-Entfm-com	99.83	1188 / 1977	Contig_96_64.9173	1..1188	E. faecium community variant VE40C2	VFCX01000034.1	188bd_results_tab
+virulence_entfm_entls	fms21-Entfm-hosp	98.88	1608 / 1977	Contig_45_69.495	1..1608	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	188bd_results_tab
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_347_69.4601	4985..6691	E. faecium community variant C59	NZ_WLYR01000008.1	188bd_results_tab
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_116_69.6974	12156..12713	E. faecium variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_116_69.6974	16969..17871	E. faecium variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_116_69.6974	16695..16937	E. faecium variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_116_69.6974	11882..12124	E. faecium variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_33_56.0487	1594..2208	E. faecium hospital variant	CP003583.1	188bd_results_tab
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_509_85.2893	3136..3744	E. faecium variant	CP003583.1	188bd_results_tab
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_53_75.7142	35..658	E. faecium hospital variant	CP003583.1	188bd_results_tab
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_70_76.4243	36345..36980	E. faecium variant	CP003583.1	188bd_results_tab
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_130_63.2758	1429..2349	E. faecium community variant	NZ_ABQJ01000017.1	188bd_results_tab
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_319_90.7225	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_25_102.97	2396..4207	E. faecium hospital variant Efm_DO	CP003583.1	188bd_results_tab
+virulence_ent	acm	99.91	2120 / 2166	Contig_62_24.3545	1..2120		CP003351.1	197bd_results_tab
+virulence_ent	efaAfm	90.82	861 / 879	Contig_115_25.4703	14172..15032		AF042288.1	197bd_results_tab
+virulence_entfm_entls	acm-Entfm-com	99.95	2120 / 2166	Contig_62_24.3545	1..2120	E. faecium community variant C59	NZ_WLYR01000013.1	197bd_results_tab
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_18_26.3978	42491..43909	E. faecium community variant C59	NZ_WLYR01000001.1	197bd_results_tab
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_114_24.0709	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	197bd_results_tab
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_22_50.739	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_22_50.739	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	197bd_results_tab
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_22_50.739	3633..5510	E. faecium hospital variant Efm	CP003583.1	197bd_results_tab
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_105_27.9258	9736..11433	E. faecium variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_105_27.9258	12739..16776	E. faecium hospital variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_24_27.7569	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	197bd_results_tab
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_105_27.9258	11426..12739	E. faecium community variant C59	NZ_WLYR01000016.1	197bd_results_tab
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_49_24.1192	33663..35742	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	197bd_results_tab
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_49_24.1192	33663..35742	E. lactis variant TX1330	GG669059.1	197bd_results_tab
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_49_24.1192	37556..39532	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	197bd_results_tab
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_72_22.1269	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	197bd_results_tab
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_3_21.1482	24524..25081	E. faecium variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_3_21.1482	19366..20268	E. faecium variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_3_21.1482	20300..20542	E. faecium variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_3_21.1482	25113..25355	E. faecium variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_115_25.4703	11117..11725	E. faecium variant	CP003583.1	197bd_results_tab
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	612 / 624	Contig_2_23.5013	1..612	E. faecium hospital variant	CP003583.1	197bd_results_tab
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_33_21.9682	21741..22376	E. faecium variant	CP003583.1	197bd_results_tab
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_3_21.1482	50272..51192	E. faecium community variant	NZ_ABQJ01000017.1	197bd_results_tab
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_75_28.0043	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_6_28.8418	62096..63907	E. faecium hospital variant Efm_DO	CP003583.1	197bd_results_tab
+virulence_ent	acm	99.02	2138 / 2166	Contig_395_10.1568	1542..3674		CP003351.1	633bf_results_tab
+virulence_ent	efaAfm	91.41	861 / 879	Contig_280_14.8245	8905..9765		AF042288.1	633bf_results_tab
+virulence_entfm_entls	acm-Entfm-com	99.02	2138 / 2166	Contig_395_10.1568	1542..3674	E. faecium community variant C59	NZ_WLYR01000013.1	633bf_results_tab
+virulence_entfm_entls	acm-Entfm-hosp	99.02	2138 / 2166	Contig_395_10.1568	1542..3674	E. faecium hospital variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_266_15.2047	3709..5127	E. faecium community variant C59	NZ_WLYR01000001.1	633bf_results_tab
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_387_17.0816	4092..5111	E. faecium hospital variant TX0082	AEBU01000039.1	633bf_results_tab
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_382_16.93	9654..10937	E. faecium variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_382_16.93	12561..16598	E. faecium hospital variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_452_14.1953	1693..3624	E. faecium hospital variant E1636	ABRY01000026.1	633bf_results_tab
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_382_16.93	11249..12561	E. faecium community variant C59	NZ_WLYR01000016.1	633bf_results_tab
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_442_10.8479	2543..4249	E. faecium community variant C59	NZ_WLYR01000008.1	633bf_results_tab
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_360_11.5494	287..844	E. faecium variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_264_16.0214	4079..4981	E. faecium variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_264_16.0214	5013..5255	E. faecium variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_360_11.5494	13..255	E. faecium variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	lysM1-Entfm-hosp	98.9	639 / 639	Contig_444_13.3673	1632..2270	E. faecium hospital variant	CP003583.1	633bf_results_tab
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_280_14.8245	12207..12815	E. faecium variant	CP003583.1	633bf_results_tab
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_254_14.8077	2108..2743	E. faecium variant	CP003583.1	633bf_results_tab
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_383_17.5319	253..1782	E. faecium hospital variant Efm_DO	CP003583.1	633bf_results_tab
+virulence_entfm_entls	scm-Entfm-com	94.59	1350 / 1728	Contig_112_18.5708	13275..14616	E. faecium community variant C59	WLYR01000005.1	633bf_results_tab
+virulence_ent	acm	99.02	2149 / 2166	Contig_38_59.2166	11621..13764		CP003351.1	vf_NG0016bc
+virulence_ent	efaAfm	91.41	861 / 879	Contig_120_75.2455	32246..33106		AF042288.1	vf_NG0016bc
+virulence_entfm_entls	acm-Entfm-com	99.02	2149 / 2166	Contig_38_59.2166	11621..13764	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0016bc
+virulence_entfm_entls	acm-Entfm-hosp	99.02	2149 / 2166	Contig_38_59.2166	11621..13764	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_37_74.3738	45517..46935	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0016bc
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_72_41.8727	137..1144	E. faecium hospital variant	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_43_69.6331	72984..74003	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0016bc
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_120_75.2455	958..2241	E. faecium variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_120_75.2455	3865..7902	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_52_77.9017	9763..11694	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0016bc
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_120_75.2455	2553..3865	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0016bc
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_117_67.849	42544..44250	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0016bc
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_17_63.896	12894..13451	E. faecium variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_17_63.896	17721..18623	E. faecium variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_17_63.896	17447..17689	E. faecium variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_17_63.896	12620..12862	E. faecium variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	lysM1-Entfm-hosp	98.88	626 / 639	Contig_106_69.489	2362..2987	E. faecium hospital variant	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_120_75.2455	29196..29804	E. faecium variant	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_13_63.16	22602..23237	E. faecium variant	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_70_79.1939	21825..23354	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_entfm_entls	scm-Entfm-com	94.59	1350 / 1728	Contig_48_82.6251	34994..36335	E. faecium community variant C59	WLYR01000005.1	vf_NG0016bc
+virulence_entfm_entls	sgrA-Entfm-hosp	94.29	700 / 975	Contig_84_61.3391	21389..22086	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016bc
+virulence_ent	acm	99.02	2148 / 2166	Contig_167_15.6367	160..2302		CP003351.1	vf_NG0016be
+virulence_ent	efaAfm	91.41	861 / 879	Contig_70_22.9259	13042..13902		AF042288.1	vf_NG0016be
+virulence_entfm_entls	acm-Entfm-com	99.02	2148 / 2166	Contig_167_15.6367	160..2302	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0016be
+virulence_entfm_entls	acm-Entfm-hosp	99.02	2148 / 2166	Contig_167_15.6367	160..2302	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_131_24.2959	17657..19075	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0016be
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_141_12.8897	4448..5455	E. faecium hospital variant	CP003583.1	vf_NG0016be
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_90_22.7862	51933..52952	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0016be
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_96_23.3409	14146..15429	E. faecium variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_96_23.3409	8485..12522	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_59_22.8493	9763..11694	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0016be
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_96_23.3409	12522..13834	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0016be
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_163_20.3889	42540..44246	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0016be
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_21_16.869	12894..13451	E. faecium variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_20_17.7359	6700..7602	E. faecium variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_20_17.7359	7634..7876	E. faecium variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_21_16.869	12620..12862	E. faecium variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	lysM1-Entfm-hosp	98.9	639 / 639	Contig_67_19.5267	35505..36143	E. faecium hospital variant	CP003583.1	vf_NG0016be
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_70_22.9259	16344..16952	E. faecium variant	CP003583.1	vf_NG0016be
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_17_20.5882	22602..23237	E. faecium variant	CP003583.1	vf_NG0016be
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_95_25.1549	21825..23354	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_entfm_entls	scm-Entfm-com	94.59	1350 / 1728	Contig_55_25.9337	34994..36335	E. faecium community variant C59	WLYR01000005.1	vf_NG0016be
+virulence_entfm_entls	sgrA-Entfm-hosp	94.29	700 / 975	Contig_86_20.4832	7222..7919	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0016be
+virulence_ent	acm	99.86	2087 / 2166	Contig_178_11.7836	1..2085		CP003351.1	vf_NG0049bc
+virulence_ent	efaAfm	90.94	861 / 879	Contig_184_17.6072	24691..25551		AF042288.1	vf_NG0049bc
+virulence_entfm_entls	acm-Entls	96.53	1757 / 1755	Contig_178_11.7836	204..1960	E. lactis variant TX1330	GG669060.1	vf_NG0049bc
+virulence_entfm_entls	bepA-Entfm-com	99.65	1419 / 1419	Contig_254_17.4474	4905..6323	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0049bc
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_160_11.4389	7..1014	E. faecium hospital variant	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	ccpA-Entfm-hosp	99.8	1020 / 1020	Contig_152_16.4001	18207..19226	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0049bc
+virulence_entfm_entls	empA-Entfm-hosp	99.23	3390 / 3390	Contig_80_16.1135	16779..20168	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	empB-Entfm-hosp	99.72	1422 / 1422	Contig_80_16.1135	15355..16776	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_80_16.1135	13481..15358	E. faecium hospital variant Efm	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	fms11-Entfm-hosp	98.51	2282 / 2322	Contig_375_16.4205	1..2282	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	fms13-Entfm	99.59	1698 / 1698	Contig_199_17.3607	7040..8737	E. faecium variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	fms14-Entfm-com	99.67	3942 / 3942	Contig_199_17.3607	10043..13984	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0049bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.28	1932 / 2769	Contig_87_22.4299	1..1932	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0049bc
+virulence_entfm_entls	fms16-Entfm-hosp	93.38	816 / 816	Contig_375_16.4205	4399..5214	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_199_17.3607	8730..10043	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0049bc
+virulence_entfm_entls	fms19-Entfm-hosp	99.01	1014 / 1014	Contig_375_16.4205	2774..3787	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	fms20-Entfm-com	96.87	2078 / 2091	Contig_196_50.4939	38303..40380	E. faecium community varint VE40C2	VFCX01000034.1	vf_NG0049bc
+virulence_entfm_entls	fms20-Entfm-hosp	96.87	2078 / 2091	Contig_196_50.4939	38303..40380	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0049bc
+virulence_entfm_entls	fms20-Entls	96.87	2078 / 2091	Contig_196_50.4939	38303..40380	E. lactis variant TX1330	GG669059.1	vf_NG0049bc
+virulence_entfm_entls	fms21-Entfm-com	94.14	1978 / 1977	Contig_196_50.4939	42194..44170	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0049bc
+virulence_entfm_entls	fnm-Entfm-com	99.41	1707 / 1707	Contig_414_14.7962	123..1829	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0049bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_410_14.1237	4804..5361	E. faecium variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	gls33-Entfm	99.89	903 / 903	Contig_128_14.4529	2839..3741	E. faecium variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_128_14.4529	3773..4015	E. faecium variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_410_14.1237	4530..4772	E. faecium variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	lysM1-Entfm-hosp	98.43	508 / 639	Contig_23_13.5797	1..508	E. faecium hospital variant	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_183_17.14	11039..11647	E. faecium variant	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_195_14.9595	2092..2727	E. faecium variant	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	sagA-Entfm-hosp	98.83	1536 / 1536	Contig_154_19.3804	13621..15147	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049bc
+virulence_entfm_entls	scm-Entfm-com	99.53	1056 / 1728	Contig_359_18.0667	4937..5989	E. faecium community variant C59	WLYR01000005.1	vf_NG0049bc
+virulence_ent	acm	99.02	2148 / 2166	Contig_90_24.0282	77..2219		CP003351.1	vf_NG0049be
+virulence_ent	efaAfm	91.41	861 / 879	Contig_368_29.3377	2165..3025		AF042288.1	vf_NG0049be
+virulence_entfm_entls	acm-Entfm-com	99.02	2148 / 2166	Contig_90_24.0282	77..2219	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0049be
+virulence_entfm_entls	acm-Entfm-hosp	99.02	2148 / 2166	Contig_90_24.0282	77..2219	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_362_30.7791	3625..5043	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0049be
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_354_18.2803	56..1063	E. faecium hospital variant	CP003583.1	vf_NG0049be
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_92_29.9703	51054..52073	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0049be
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_105_30.4976	14165..15448	E. faecium variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_105_30.4976	8504..12541	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_140_29.7356	9763..11694	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0049be
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_105_30.4976	12541..13853	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0049be
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_341_28.4611	1256..2962	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0049be
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_111_32.2797	970..1527	E. faecium variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_376_25.8554	3148..4050	E. faecium variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_376_25.8554	2874..3116	E. faecium variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_111_32.2797	1559..1801	E. faecium variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	lysM1-Entfm-hosp	98.9	639 / 639	Contig_168_29.8843	1863..2501	E. faecium hospital variant	CP003583.1	vf_NG0049be
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_181_32.2353	11054..11662	E. faecium variant	CP003583.1	vf_NG0049be
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_178_26.203	21081..21716	E. faecium variant	CP003583.1	vf_NG0049be
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_296_32.616	21818..23347	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_entfm_entls	scm-Entfm-com	94.59	1350 / 1728	Contig_128_36.6642	13022..14363	E. faecium community variant C59	WLYR01000005.1	vf_NG0049be
+virulence_entfm_entls	sgrA-Entfm-hosp	94.29	700 / 975	Contig_213_24.9328	8421..9118	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0049be
+virulence_ent	acm	99.85	2050 / 2166	Contig_479_19.9788	1..2048		CP003351.1	vf_NG0058ba
+virulence_ent	efaAfm	90.94	861 / 879	Contig_104_30.5541	24634..25494		AF042288.1	vf_NG0058ba
+virulence_entfm_entls	acm-Entls	96.53	1757 / 1755	Contig_479_19.9788	208..1964	E. lactis variant TX1330	GG669060.1	vf_NG0058ba
+virulence_entfm_entls	bepA-Entfm-com	99.65	1419 / 1419	Contig_515_31.7739	2342..3760	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0058ba
+virulence_entfm_entls	ccpA-Entfm-hosp	99.8	1020 / 1020	Contig_752_30.5558	1309..2328	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0058ba
+virulence_entfm_entls	empA-Entfm-hosp	99.25	3332 / 3390	Contig_291_31.866	1..3332	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	empB-Entfm-hosp	99.72	1422 / 1422	Contig_291_31.866	3335..4756	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_291_31.866	4753..6630	E. faecium hospital variant Efm	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	fms11-Entfm-hosp	98.45	2195 / 2322	Contig_724_36.8712	1..2195	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	fms13-Entfm	99.59	1698 / 1698	Contig_250_34.3021	7393..9090	E. faecium variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	fms14-Entfm-com	99.67	3942 / 3942	Contig_250_34.3021	10396..14337	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0058ba
+virulence_entfm_entls	fms15-Entfm-hosp	99.28	1932 / 2769	Contig_133_40.1537	1..1932	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0058ba
+virulence_entfm_entls	fms16-Entfm-hosp	93.38	816 / 816	Contig_724_36.8712	4312..5127	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_250_34.3021	9083..10396	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0058ba
+virulence_entfm_entls	fms19-Entfm-hosp	99.01	1014 / 1014	Contig_724_36.8712	2687..3700	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	fms20-Entfm-com	96.87	2078 / 2091	Contig_727_30.7176	13338..15415	E. faecium community varint VE40C2	VFCX01000034.1	vf_NG0058ba
+virulence_entfm_entls	fms20-Entfm-hosp	96.87	2078 / 2091	Contig_727_30.7176	13338..15415	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0058ba
+virulence_entfm_entls	fms20-Entls	96.87	2078 / 2091	Contig_727_30.7176	13338..15415	E. lactis variant TX1330	GG669059.1	vf_NG0058ba
+virulence_entfm_entls	fms21-Entfm-com	94.14	1978 / 1977	Contig_727_30.7176	17229..19205	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0058ba
+virulence_entfm_entls	fnm-Entfm-com	99.41	1707 / 1707	Contig_477_33.2939	106..1812	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0058ba
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_224_26.0573	993..1550	E. faecium variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	gls33-Entfm	99.89	903 / 903	Contig_467_27.7827	6954..7856	E. faecium variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_467_27.7827	7888..8130	E. faecium variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_224_26.0573	1582..1824	E. faecium variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	lysM1-Entfm-hosp	99.02	509 / 639	Contig_170_30.4057	8034..8542	E. faecium hospital variant	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	lysM1-Entfm-hosp	98.42	505 / 639	Contig_219_47.1638	1..505	E. faecium hospital variant	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	lysM2-Entfm	100.0	580 / 609	Contig_526_32.4223	1..580	E. faecium variant	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_282_25.5199	2092..2727	E. faecium variant	CP003583.1	vf_NG0058ba
+virulence_entfm_entls	prpA-Entfm-com	98.17	873 / 1170	Contig_197_20.7349	13..885	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0058ba
+virulence_entfm_entls	sagA-Entfm-hosp	98.83	1536 / 1536	Contig_246_38.439	1868..3394	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0058ba
+virulence_ent	acm	99.81	2119 / 2166	Contig_79_34.48	52..2168		CP003351.1	vf_NG0060bb
+virulence_ent	efaAfm	90.94	861 / 879	Contig_111_43.0882	16321..17181		AF042288.1	vf_NG0060bb
+virulence_entfm_entls	acm-Entfm-com	99.81	2119 / 2166	Contig_79_34.48	52..2168	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0060bb
+virulence_entfm_entls	acm-Entfm-hosp	99.81	2119 / 2166	Contig_79_34.48	52..2168	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	bepA-Entfm-com	99.65	1419 / 1419	Contig_109_41.454	17600..19018	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0060bb
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_72_23.7011	2040..3047	E. faecium hospital variant	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	ccpA-Entfm-hosp	99.8	1020 / 1020	Contig_120_41.0151	18356..19375	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0060bb
+virulence_entfm_entls	empA-Entfm-hosp	99.23	3390 / 3390	Contig_130_34.4523	15474..18863	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	empB-Entfm-hosp	99.72	1422 / 1422	Contig_130_34.4523	14050..15471	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_130_34.4523	12176..14053	E. faecium hospital variant Efm	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	fms11-Entfm-hosp	98.54	2326 / 2322	Contig_119_34.9531	1828..4153	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	fms13-Entfm	99.59	1698 / 1698	Contig_7_40.3796	9844..11541	E. faecium variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	fms14-Entfm-com	99.67	3942 / 3942	Contig_7_40.3796	12847..16788	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0060bb
+virulence_entfm_entls	fms15-Entfm-hosp	99.28	1932 / 2769	Contig_26_41.0739	1..1932	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0060bb
+virulence_entfm_entls	fms16-Entfm-hosp	93.38	816 / 816	Contig_119_34.9531	6270..7085	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_7_40.3796	11534..12847	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0060bb
+virulence_entfm_entls	fms19-Entfm-hosp	99.01	1014 / 1014	Contig_119_34.9531	4645..5658	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	fms20-Entfm-com	96.87	2078 / 2091	Contig_62_290.111	47183..49260	E. faecium community varint VE40C2	VFCX01000034.1	vf_NG0060bb
+virulence_entfm_entls	fms20-Entfm-hosp	96.87	2078 / 2091	Contig_62_290.111	47183..49260	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0060bb
+virulence_entfm_entls	fms20-Entls	96.87	2078 / 2091	Contig_62_290.111	47183..49260	E. lactis variant TX1330	GG669059.1	vf_NG0060bb
+virulence_entfm_entls	fms21-Entfm-com	94.14	1978 / 1977	Contig_62_290.111	51074..53050	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0060bb
+virulence_entfm_entls	fnm-Entfm-com	99.41	1707 / 1707	Contig_68_34.5365	32956..34662	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0060bb
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_117_30.5736	1039..1596	E. faecium variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	gls33-Entfm	99.89	903 / 903	Contig_27_34.9033	6969..7871	E. faecium variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_27_34.9033	7903..8145	E. faecium variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_117_30.5736	1628..1870	E. faecium variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	lysM1-Entfm-hosp	98.46	518 / 639	Contig_60_34.8235	35863..36380	E. faecium hospital variant	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	lysM1-Entfm-hosp	99.03	518 / 639	Contig_110_36.5213	8849..9366	E. faecium hospital variant	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_111_43.0882	13266..13874	E. faecium variant	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_123_33.205	2094..2729	E. faecium variant	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	prpA-Entfm-com	98.17	873 / 1170	Contig_117_30.5736	26789..27661	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0060bb
+virulence_entfm_entls	sagA-Entfm-hosp	98.83	1536 / 1536	Contig_129_44.2801	21905..23431	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_entfm_entls	scm-Entfm-com	99.53	1056 / 1728	Contig_56_40.2866	42838..43890	E. faecium community variant C59	WLYR01000005.1	vf_NG0060bb
+virulence_entfm_entls	sgrA-Entfm-hosp	98.0	701 / 975	Contig_53_31.5035	28282..28981	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0060bb
+virulence_ent	acm	99.82	2166 / 2166	Contig_90_42.6172	301..2464		CP003351.1	vf_NG0061bf
+virulence_ent	efaAfm	90.94	861 / 879	Contig_111_38.5282	24696..25556		AF042288.1	vf_NG0061bf
+virulence_entfm_entls	acm-Entfm-com	99.82	2166 / 2166	Contig_90_42.6172	301..2464	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0061bf
+virulence_entfm_entls	acm-Entfm-hosp	99.82	2166 / 2166	Contig_90_42.6172	301..2464	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	bepA-Entfm-com	99.65	1419 / 1419	Contig_94_39.5061	17600..19018	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0061bf
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_113_21.831	66..1073	E. faecium hospital variant	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	ccpA-Entfm-hosp	99.8	1020 / 1020	Contig_108_38.165	18356..19375	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0061bf
+virulence_entfm_entls	empA-Entfm-hosp	99.23	3390 / 3390	Contig_64_33.6051	16754..20143	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	empB-Entfm-hosp	99.72	1422 / 1422	Contig_64_33.6051	15330..16751	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_64_33.6051	13456..15333	E. faecium hospital variant Efm	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	fms11-Entfm-hosp	98.54	2326 / 2322	Contig_129_31.4505	1780..4105	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	fms13-Entfm	99.59	1698 / 1698	Contig_50_37.3532	30626..32323	E. faecium variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	fms14-Entfm-com	99.67	3942 / 3942	Contig_50_37.3532	33629..37570	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0061bf
+virulence_entfm_entls	fms15-Entfm-hosp	99.28	1932 / 2769	Contig_22_39.3684	1..1932	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0061bf
+virulence_entfm_entls	fms16-Entfm-hosp	93.38	816 / 816	Contig_129_31.4505	6222..7037	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_50_37.3532	32316..33629	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0061bf
+virulence_entfm_entls	fms19-Entfm-hosp	99.01	1014 / 1014	Contig_129_31.4505	4597..5610	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	fms20-Entfm-com	96.87	2078 / 2091	Contig_58_171.098	47183..49260	E. faecium community varint VE40C2	VFCX01000034.1	vf_NG0061bf
+virulence_entfm_entls	fms20-Entfm-hosp	96.87	2078 / 2091	Contig_58_171.098	47183..49260	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0061bf
+virulence_entfm_entls	fms20-Entls	96.87	2078 / 2091	Contig_58_171.098	47183..49260	E. lactis variant TX1330	GG669059.1	vf_NG0061bf
+virulence_entfm_entls	fms21-Entfm-com	94.14	1978 / 1977	Contig_58_171.098	51074..53050	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0061bf
+virulence_entfm_entls	fnm-Entfm-com	99.41	1707 / 1707	Contig_48_31.8528	10764..12470	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0061bf
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_106_29.6973	16329..16886	E. faecium variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	gls33-Entfm	99.89	903 / 903	Contig_40_30.1655	6932..7834	E. faecium variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_40_30.1655	7866..8108	E. faecium variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_106_29.6973	16055..16297	E. faecium variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	lysM1-Entfm-hosp	99.07	540 / 639	Contig_47_33.2659	1..540	E. faecium hospital variant	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	lysM1-Entfm-hosp	98.59	639 / 639	Contig_124_33.741	93322..93960	E. faecium hospital variant	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_95_43.8695	13266..13874	E. faecium variant	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_45_32.1742	2092..2727	E. faecium variant	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	prpA-Entfm-com	98.17	873 / 1170	Contig_83_32.0076	8788..9660	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0061bf
+virulence_entfm_entls	sagA-Entfm-hosp	98.83	1536 / 1536	Contig_123_40.3148	21905..23431	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_entfm_entls	scm-Entfm-com	99.53	1056 / 1728	Contig_89_40.5994	34474..35526	E. faecium community variant C59	WLYR01000005.1	vf_NG0061bf
+virulence_entfm_entls	sgrA-Entfm-hosp	98.0	701 / 975	Contig_26_30.3875	11549..12248	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0061bf
+virulence_ent	acm	99.81	2105 / 2166	Contig_89_43.7481	1..2103		CP003351.1	vf_NG0063bc
+virulence_ent	efaAfm	90.94	861 / 879	Contig_81_46.0344	16321..17181		AF042288.1	vf_NG0063bc
+virulence_entfm_entls	acm-Entfm-com	99.86	2105 / 2166	Contig_89_43.7481	1..2103	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0063bc
+virulence_entfm_entls	bepA-Entfm-com	99.65	1419 / 1419	Contig_80_41.3668	17600..19018	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0063bc
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_45_24.655	4577..5584	E. faecium hospital variant	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	ccpA-Entfm-hosp	99.8	1020 / 1020	Contig_11_40.6755	18154..19173	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0063bc
+virulence_entfm_entls	empA-Entfm-hosp	99.23	3390 / 3390	Contig_38_35.2758	138606..141995	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	empB-Entfm-hosp	99.72	1422 / 1422	Contig_38_35.2758	141998..143419	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_38_35.2758	143416..145293	E. faecium hospital variant Efm	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	fms11-Entfm-hosp	98.54	2326 / 2322	Contig_28_37.5112	103..2428	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	fms13-Entfm	99.59	1698 / 1698	Contig_91_41.6611	9775..11472	E. faecium variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	fms14-Entfm-com	99.67	3942 / 3942	Contig_91_41.6611	12778..16719	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0063bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.28	1932 / 2769	Contig_23_50.2558	1..1932	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0063bc
+virulence_entfm_entls	fms16-Entfm-hosp	93.38	816 / 816	Contig_28_37.5112	4545..5360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_91_41.6611	11465..12778	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0063bc
+virulence_entfm_entls	fms19-Entfm-hosp	99.01	1014 / 1014	Contig_28_37.5112	2920..3933	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	fms20-Entfm-com	96.87	2078 / 2091	Contig_55_116.336	47183..49260	E. faecium community varint VE40C2	VFCX01000034.1	vf_NG0063bc
+virulence_entfm_entls	fms20-Entfm-hosp	96.87	2078 / 2091	Contig_55_116.336	47183..49260	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0063bc
+virulence_entfm_entls	fms20-Entls	96.87	2078 / 2091	Contig_55_116.336	47183..49260	E. lactis variant TX1330	GG669059.1	vf_NG0063bc
+virulence_entfm_entls	fms21-Entfm-com	94.14	1978 / 1977	Contig_55_116.336	51074..53050	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0063bc
+virulence_entfm_entls	fnm-Entfm-com	99.41	1707 / 1707	Contig_38_35.2758	169777..171483	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0063bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_38_35.2758	62290..62847	E. faecium variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	gls33-Entfm	99.89	903 / 903	Contig_38_35.2758	57133..58035	E. faecium variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_38_35.2758	58067..58309	E. faecium variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_38_35.2758	62879..63121	E. faecium variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	lysM1-Entfm-hosp	98.59	639 / 639	Contig_49_36.2032	35515..36153	E. faecium hospital variant	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	lysM1-Entfm-hosp	99.03	518 / 639	Contig_53_37.2136	1..518	E. faecium hospital variant	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_81_46.0344	13266..13874	E. faecium variant	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_65_38.3445	57142..57777	E. faecium variant	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	prpA-Entfm-com	98.17	873 / 1170	Contig_38_35.2758	88040..88912	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0063bc
+virulence_entfm_entls	sagA-Entfm-hosp	98.83	1536 / 1536	Contig_93_44.4012	21787..23313	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_entfm_entls	scm-Entfm-com	99.53	1056 / 1728	Contig_59_44.404	34138..35190	E. faecium community variant C59	WLYR01000005.1	vf_NG0063bc
+virulence_entfm_entls	sgrA-Entfm-hosp	98.0	701 / 975	Contig_38_35.2758	28281..28980	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0063bc
+virulence_ent	acm	99.02	2148 / 2166	Contig_33_34.6037	11621..13763		CP003351.1	vf_NG0066bb
+virulence_ent	efaAfm	91.41	861 / 879	Contig_115_42.9564	15631..16491		AF042288.1	vf_NG0066bb
+virulence_entfm_entls	acm-Entfm-com	99.02	2148 / 2166	Contig_33_34.6037	11621..13763	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0066bb
+virulence_entfm_entls	acm-Entfm-hosp	99.02	2148 / 2166	Contig_33_34.6037	11621..13763	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_32_42.7456	45517..46935	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0066bb
+virulence_entfm_entls	capD-Entfm-hosp	100.0	1008 / 1008	Contig_104_40.4049	98143..99150	E. faecium hospital variant	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_40_40.7688	72984..74003	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0066bb
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_45_42.9352	14342..15625	E. faecium variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_45_42.9352	8681..12718	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_51_43.1112	9763..11694	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0066bb
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_45_42.9352	12718..14030	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0066bb
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_114_36.7148	42540..44246	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0066bb
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_16_32.5499	12894..13451	E. faecium variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_16_32.5499	17721..18623	E. faecium variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_16_32.5499	17447..17689	E. faecium variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_16_32.5499	12620..12862	E. faecium variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	lysM1-Entfm-hosp	98.9	639 / 639	Contig_54_34.3338	35505..36143	E. faecium hospital variant	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_115_42.9564	12581..13189	E. faecium variant	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_14_37.1456	22602..23237	E. faecium variant	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_70_44.9387	21825..23354	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_entfm_entls	scm-Entfm-com	94.59	1350 / 1728	Contig_44_48.6068	34994..36335	E. faecium community variant C59	WLYR01000005.1	vf_NG0066bb
+virulence_entfm_entls	sgrA-Entfm-hosp	94.29	700 / 975	Contig_82_32.6576	21389..22086	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0066bb
+virulence_ent	acm	98.98	2151 / 2166	Contig_19_66.8168	11621..13766		CP003351.1	vf_NG0073bf
+virulence_ent	efaAfm	91.41	861 / 879	Contig_73_77.4123	159578..160438		AF042288.1	vf_NG0073bf
+virulence_entfm_entls	acm-Entfm-com	98.98	2151 / 2166	Contig_19_66.8168	11621..13766	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0073bf
+virulence_entfm_entls	acm-Entfm-hosp	98.98	2151 / 2166	Contig_19_66.8168	11621..13766	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	bepA-Entfm-com	99.79	1419 / 1419	Contig_18_78.8898	45517..46935	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0073bf
+virulence_entfm_entls	ccpA-Entfm-hosp	99.71	1020 / 1020	Contig_23_70.8895	50225..51244	E. faecium hospital variant TX0082	AEBU01000039.1	vf_NG0073bf
+virulence_entfm_entls	fms13-Entfm	99.38	1284 / 1698	Contig_73_77.4123	128290..129573	E. faecium variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	fms14-Entfm-hosp	99.33	4038 / 4038	Contig_73_77.4123	131197..135234	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	fms15-Entfm-hosp	99.59	1932 / 2769	Contig_47_80.5642	23606..25537	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0073bf
+virulence_entfm_entls	fms17-Entfm-com	99.77	1314 / 1314	Contig_73_77.4123	129885..131197	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0073bf
+virulence_entfm_entls	fnm-Entfm-com	99.65	1707 / 1707	Contig_74_70.1775	42540..44246	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0073bf
+virulence_entfm_entls	gls20-Entfm	99.28	558 / 558	Contig_26_69.9985	88739..89296	E. faecium variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	gls33-Entfm	96.57	903 / 903	Contig_26_69.9985	93566..94468	E. faecium variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	glsB-Entfm	99.59	243 / 243	Contig_26_69.9985	93292..93534	E. faecium variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_26_69.9985	88465..88707	E. faecium variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	lysM1-Entfm-hosp	98.88	626 / 639	Contig_30_141.262	96..721	E. faecium hospital variant	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_73_77.4123	156528..157136	E. faecium variant	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	lysM4-Entfm	99.53	636 / 636	Contig_7_69.5053	22602..23237	E. faecium variant	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	sagA-Entfm-hosp	98.64	1539 / 1536	Contig_43_80.6375	21825..23354	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_entfm_entls	scm-Entfm-com	94.6	1351 / 1728	Contig_70_80.1964	43168..44509	E. faecium community variant C59	WLYR01000005.1	vf_NG0073bf
+virulence_entfm_entls	sgrA-Entfm-hosp	94.29	700 / 975	Contig_26_69.9985	122851..123548	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0073bf
+virulence_ent	acm	97.28	1434 / 2166	Contig_16_36.511	68072..69505		CP003351.1	vf_NG0114bd
+virulence_ent	efaAfm	90.59	861 / 879	Contig_4_38.2178	29592..30452		AF042288.1	vf_NG0114bd
+virulence_entfm_entls	acm-Entfm-com	97.28	1434 / 2166	Contig_16_36.511	68072..69505	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0114bd
+virulence_entfm_entls	acm-Entfm-hosp	97.28	1434 / 2166	Contig_16_36.511	68072..69505	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0114bd
+virulence_entfm_entls	ccpA-Entls	99.4	1002 / 1002	Contig_27_35.7048	58454..59455	E. lactis variant 1141733,NZ_GG688461.1	NZ_GG688461.1	vf_NG0114bd
+virulence_entfm_entls	empB-Entfm-com	98.1	1422 / 1422	Contig_35_54.425	736..2157	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0114bd
+virulence_entfm_entls	empB-Entls	97.41	850 / 1413	Contig_50_40.4359	1..850	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0114bd
+virulence_entfm_entls	empC-Entfm-com	97.11	1140 / 1878	Contig_35_54.425	2154..3293	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0114bd
+virulence_entfm_entls	empC-Entfm-hosp	97.11	1140 / 1878	Contig_35_54.425	2154..3293	E. faecium hospital variant Efm	CP003583.1	vf_NG0114bd
+virulence_entfm_entls	empC-Entls	96.49	1141 / 1878	Contig_50_40.4359	855..1995	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0114bd
+virulence_entfm_entls	fms11-Entfm-hosp	93.72	2323 / 2322	Contig_19_36.1558	35659..37980	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0114bd
+virulence_entfm_entls	fms16-Entls	97.55	1431 / 1431	Contig_19_36.1558	39482..40912	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0114bd
+virulence_entfm_entls	fms19-Entls	98.2	1503 / 1503	Contig_19_36.1558	37983..39485	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0114bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.18	2080 / 2091	Contig_80_44.9821	32833..34912	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0114bd
+virulence_entfm_entls	fms20-Entls	99.18	2080 / 2091	Contig_80_44.9821	32833..34912	E. lactis variant TX1330	GG669059.1	vf_NG0114bd
+virulence_entfm_entls	fms21-Entfm-com	98.89	1977 / 1977	Contig_80_44.9821	36726..38702	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0114bd
+virulence_entfm_entls	fnm-Entls	98.18	1707 / 1707	Contig_108_34.5516	25641..27347	E. lactis variant TX1330	GG669057.1	vf_NG0114bd
+virulence_entfm_entls	gls20-Entls	99.82	558 / 558	Contig_129_33.4348	23778..24335	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0114bd
+virulence_entfm_entls	gls33-Entls	99.56	906 / 906	Contig_129_33.4348	9707..10612	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0114bd
+virulence_entfm_entls	glsB-Entls	99.18	243 / 243	Contig_129_33.4348	10644..10886	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0114bd
+virulence_entfm_entls	glsB1-Entls	100.0	243 / 243	Contig_129_33.4348	24367..24609	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0114bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_22_36.3211	14560..15168	E. faecium variant	CP003583.1	vf_NG0114bd
+virulence_entfm_entls	lysM4-Entfm	96.86	636 / 636	Contig_65_34.7609	67168..67803	E. faecium variant	CP003583.1	vf_NG0114bd
+virulence_entfm_entls	sagA-Entls	98.09	1569 / 1557	Contig_106_38.9237	14198..15766	E. lactis variant 1141733	NZ_GG688465.1	vf_NG0114bd
+virulence_entfm_entls	sgrA-Entfm-hosp	93.85	618 / 975	Contig_122_29.3046	21282..21899	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0114bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_15_90.2431	1..2121		CP003351.1	vf_NG0115ba
+virulence_ent	efaAfm	90.82	861 / 879	Contig_56_87.0661	85540..86400		AF042288.1	vf_NG0115ba
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_15_90.2431	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0115ba
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_3_77.8551	61487..62905	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0115ba
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_59_79.1064	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0115ba
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_14_161.62	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_14_161.62	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0115ba
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_14_161.62	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_56_87.0661	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_56_87.0661	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	fms15-Entfm-hosp	98.9	2085 / 2769	Contig_12_94.2799	26470..28554	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0115ba
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_56_87.0661	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0115ba
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_51_76.3094	14854..16933	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0115ba
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_51_76.3094	14854..16933	E. lactis variant TX1330	GG669059.1	vf_NG0115ba
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_51_76.3094	11064..13040	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0115ba
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_31_73.7311	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0115ba
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_3_77.8551	240396..240953	E. faecium variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_3_77.8551	235238..236140	E. faecium variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_3_77.8551	236172..236414	E. faecium variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_3_77.8551	240985..241227	E. faecium variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_31_73.7311	124319..124933	E. faecium hospital variant	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_56_87.0661	82485..83093	E. faecium variant	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	482 / 624	Contig_24_76.5458	1..482	E. faecium hospital variant	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_5_75.9629	66687..67322	E. faecium variant	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_3_77.8551	266144..267064	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0115ba
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_34_91.5213	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_34_91.5213	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0115ba
+virulence_ent	acm	99.86	2121 / 2166	Contig_9_119.509	1..2121		CP003351.1	vf_NG0180bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_53_123.982	85540..86400		AF042288.1	vf_NG0180bc
+virulence_entfm_entls	acm-Entfm-com	99.91	2121 / 2166	Contig_9_119.509	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0180bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_4_114.462	61487..62905	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0180bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_55_110.586	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0180bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_7_231.188	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_7_231.188	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0180bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_7_231.188	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_53_123.982	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_53_123.982	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_50_120.319	25140..26976	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0180bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_53_123.982	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0180bc
+virulence_entfm_entls	fms20-Entls	99.95	2091 / 2091	Contig_46_119.048	11615..13705	E. lactis variant TX1330	GG669059.1	vf_NG0180bc
+virulence_entfm_entls	fms21-Entls	99.6	1977 / 1977	Contig_46_119.048	7825..9801	E. lactis variant TX1330	NZ_GG669059.1	vf_NG0180bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_17_103.49	10816..12522	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0180bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_24_102.848	15041..15598	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_24_102.848	9883..10785	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_24_102.848	10817..11059	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_24_102.848	15630..15872	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_17_103.49	111004..111618	E. faecium hospital variant	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_53_123.982	82485..83093	E. faecium variant	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_18_109.312	37850..38473	E. faecium hospital variant	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_1_105.989	36007..36642	E. faecium variant	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_24_102.848	40789..41709	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0180bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_36_128.767	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_36_128.767	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bc
+virulence_ent	acm	99.86	2121 / 2166	Contig_19_56.0209	1..2121		CP003351.1	vf_NG0180bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_58_56.4724	41849..42709		AF042288.1	vf_NG0180bd
+virulence_entfm_entls	acm-Entfm-com	99.91	2121 / 2166	Contig_19_56.0209	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0180bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_15_57.6913	9938..11356	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0180bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_69_50.7606	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0180bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_17_95.1705	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_17_95.1705	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0180bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_17_95.1705	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_58_56.4724	9735..11432	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_58_56.4724	12738..16775	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_18_59.5369	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0180bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_58_56.4724	11425..12738	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0180bd
+virulence_entfm_entls	fms20-Entls	99.95	2091 / 2091	Contig_84_58.2776	9108..11198	E. lactis variant TX1330	GG669059.1	vf_NG0180bd
+virulence_entfm_entls	fms21-Entls	99.6	1977 / 1977	Contig_84_58.2776	5318..7294	E. lactis variant TX1330	NZ_GG669059.1	vf_NG0180bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_83_46.9477	10894..12600	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0180bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_21_44.2909	25033..25590	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_14_48.0891	3081..3983	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_14_48.0891	2807..3049	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_21_44.2909	24759..25001	E. faecium variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_83_46.9477	111082..111696	E. faecium hospital variant	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_58_56.4724	38794..39402	E. faecium variant	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	603 / 624	Contig_60_49.9466	12986..13588	E. faecium hospital variant	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_1_47.7382	36007..36642	E. faecium variant	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_64_49.288	61..981	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0180bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_50_59.5226	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_50_59.5226	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0180bd
+virulence_ent	acm	96.89	1865 / 2166	Contig_22_44.3736	109364..111226		CP003351.1	vf_NG0181ba
+virulence_ent	efaAfm	90.82	861 / 879	Contig_66_43.5471	29532..30392		AF042288.1	vf_NG0181ba
+virulence_entfm_entls	acm-Entls	97.73	1583 / 1755	Contig_22_44.3736	109644..111226	E. lactis variant TX1330	GG669060.1	vf_NG0181ba
+virulence_entfm_entls	bepA-Entfm-com	97.6	1419 / 1419	Contig_5_44.2291	52345..53763	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0181ba
+virulence_entfm_entls	ccpA-Entls	98.6	1002 / 1002	Contig_28_43.1227	48055..49056	E. lactis variant 1141733,NZ_GG688461.1	NZ_GG688461.1	vf_NG0181ba
+virulence_entfm_entls	empA-Entfm-hosp	95.49	2817 / 3390	Contig_6_38.0312	11692..14501	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	empB-Entfm-com	99.86	1422 / 1422	Contig_6_38.0312	10268..11689	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0181ba
+virulence_entfm_entls	empC-Entfm-hosp	96.91	1878 / 1878	Contig_6_38.0312	8394..10271	E. faecium hospital variant Efm	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	fms11-Entfm-hosp	94.06	2323 / 2322	Contig_26_39.1582	23444..25765	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_85_45.5025	48235..49932	E. faecium variant Efm_DO	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	fms14-Entfm-hosp	99.88	4038 / 4038	Contig_85_45.5025	51238..55275	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	fms16-Entls	97.97	1431 / 1431	Contig_26_39.1582	20511..21941	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0181ba
+virulence_entfm_entls	fms17-Entfm-com	99.92	1314 / 1314	Contig_85_45.5025	49925..51238	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0181ba
+virulence_entfm_entls	fms19-Entls	97.34	1504 / 1503	Contig_26_39.1582	21938..23441	E. lactis variant 1141733	NZ_GG688461.1	vf_NG0181ba
+virulence_entfm_entls	fms20-Entfm-hosp	99.76	2091 / 2091	Contig_64_45.4161	31416..33506	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0181ba
+virulence_entfm_entls	fms20-Entls	99.76	2091 / 2091	Contig_64_45.4161	31416..33506	E. lactis variant TX1330	GG669059.1	vf_NG0181ba
+virulence_entfm_entls	fms21-Entfm-com	99.75	1977 / 1977	Contig_64_45.4161	35314..37290	E. faecium community variant VE40C2	VFCX01000034.1	vf_NG0181ba
+virulence_entfm_entls	fnm-Entls	98.18	1707 / 1707	Contig_74_41.0527	25072..26778	E. lactis variant TX1330	GG669057.1	vf_NG0181ba
+virulence_entfm_entls	gls20-Entls	98.57	558 / 558	Contig_61_38.7176	4584..5141	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0181ba
+virulence_entfm_entls	gls33-Entls	97.04	574 / 906	Contig_32_41.171	7024..7597	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0181ba
+virulence_entfm_entls	glsB-Entfm	98.35	243 / 243	Contig_32_41.171	7629..7871	E. faecium variant Efm_DO	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	glsB-Entls	98.35	243 / 243	Contig_32_41.171	7629..7871	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0181ba
+virulence_entfm_entls	glsB1-Entls	98.35	243 / 243	Contig_61_38.7176	5173..5415	E. lactis variant TX1330	NZ_GG669057.1	vf_NG0181ba
+virulence_entfm_entls	lysM2-Entfm	99.84	609 / 609	Contig_85_45.5025	77391..77999	E. faecium variant	CP003583.1	vf_NG0181ba
+virulence_entfm_entls	lysM4-Entfm	96.7	636 / 636	Contig_52_41.4946	67291..67926	E. faecium variant	CP003583.1	vf_NG0181ba
+virulence_ent	acm	99.9	2079 / 2166	Contig_26_29.5945	1..2079		CP003351.1	vf_NG0181bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_62_31.019	65936..66796		AF042288.1	vf_NG0181bc
+virulence_entfm_entls	acm-Entls	96.36	1759 / 1755	Contig_26_29.5945	238..1996	E. lactis variant TX1330	GG669060.1	vf_NG0181bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_65_29.75	28511..29929	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0181bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_105_29.5482	16251..17252	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0181bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_23_36.698	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_23_36.698	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0181bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_23_36.698	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_62_31.019	33822..35519	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_62_31.019	36825..40862	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_24_28.2625	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0181bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_62_31.019	35512..36825	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0181bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_78_25.4578	17753..19832	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0181bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_78_25.4578	17753..19832	E. lactis variant TX1330	GG669059.1	vf_NG0181bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_78_25.4578	21646..23622	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0181bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_8_27.1759	41739..43445	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0181bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_17_23.7994	16337..16894	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_38_30.5754	7020..7922	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_38_30.5754	7954..8196	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_17_23.7994	16063..16305	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	lysM1-Entfm-hosp	94.37	497 / 639	Contig_1_26.1471	56701..57173	E. faecium hospital variant	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_62_31.019	62881..63489	E. faecium variant	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_19_27.3484	44602..45237	E. faecium variant	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_90_26.3841	8792..9712	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0181bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_32_32.0802	21826..23361	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_32_32.0802	139811..141622	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bc
+virulence_ent	acm	99.91	2120 / 2166	Contig_32_57.5098	1..2120		CP003351.1	vf_NG0181bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_61_59.8462	85540..86400		AF042288.1	vf_NG0181bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2120 / 2166	Contig_32_57.5098	1..2120	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0181bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_19_53.6539	28482..29900	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0181bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_63_54.9827	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0181bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_11_116.628	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_11_116.628	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0181bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_11_116.628	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_61_59.8462	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_61_59.8462	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.24	1842 / 2769	Contig_8_62.7673	26470..28311	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0181bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_61_59.8462	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0181bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_24_55.5579	14425..16504	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0181bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_24_55.5579	14425..16504	E. lactis variant TX1330	GG669059.1	vf_NG0181bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_24_55.5579	10635..12611	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0181bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_38_52.0027	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0181bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_19_53.6539	207391..207948	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_19_53.6539	202233..203135	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_19_53.6539	203167..203409	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_19_53.6539	207980..208222	E. faecium variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	lysM1-Entfm-hosp	94.79	518 / 639	Contig_29_38.7465	1..494	E. faecium hospital variant	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_61_59.8462	82485..83093	E. faecium variant	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_38_52.0027	124318..124941	E. faecium hospital variant	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_4_53.3843	66687..67322	E. faecium variant	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_19_53.6539	233139..234059	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0181bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_60_64.1408	21833..23368	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_60_64.1408	139818..141629	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0181bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_22_30.2655	1..2121		CP003351.1	vf_NG0184bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_1_33.3372	17446..18306		AF042288.1	vf_NG0184bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_22_30.2655	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0184bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_77_32.631	75468..76886	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0184bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_112_30.8591	87294..88295	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0184bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_19_40.3957	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_19_40.3957	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0184bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_19_40.3957	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_24_33.558	19688..21385	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_24_33.558	22691..26728	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_21_33.7171	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0184bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_24_33.558	21378..22691	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0184bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_103_27.7201	14043..16122	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_103_27.7201	14043..16122	E. lactis variant TX1330	GG669059.1	vf_NG0184bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_103_27.7201	10253..12229	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_114_26.402	2543..4249	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0184bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_74_27.0553	10200..10757	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_74_27.0553	15013..15915	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_74_27.0553	14739..14981	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_74_27.0553	9926..10168	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_38_24.0348	4817..5431	E. faecium hospital variant	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_1_33.3372	14391..14999	E. faecium variant	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_31_28.8075	3116..3739	E. faecium hospital variant	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_49_29.1138	22117..22752	E. faecium variant	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_42_28.5939	14949..15869	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0184bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_108_35.5638	21904..23439	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_108_35.5638	139889..141700	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_14_54.8351	1..2121		CP003351.1	vf_NG0184bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_60_52.0411	62865..63725		AF042288.1	vf_NG0184bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_14_54.8351	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0184bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_13_53.3901	28513..29931	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0184bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_58_48.0332	87296..88297	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0184bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_10_94.835	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_10_94.835	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0184bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_10_94.835	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_60_52.0411	30751..32448	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_60_52.0411	33754..37791	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_8_57.2161	27080..28916	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0184bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_60_52.0411	32441..33754	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0184bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_55_50.806	34008..36087	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_55_50.806	34008..36087	E. lactis variant TX1330	GG669059.1	vf_NG0184bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_55_50.806	37901..39877	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_39_45.6847	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0184bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_27_45.8601	12305..12862	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_27_45.8601	7147..8049	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_27_45.8601	8081..8323	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_27_45.8601	12894..13136	E. faecium variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_70_43.1868	3316..3930	E. faecium hospital variant	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_60_52.0411	59810..60418	E. faecium variant	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_2_47.4352	37958..38581	E. faecium hospital variant	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_5_46.0314	66687..67322	E. faecium variant	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_27_45.8601	38053..38973	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0184bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_72_54.9115	21833..23368	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_72_54.9115	139818..141629	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_16_83.6065	1..2121		CP003351.1	vf_NG0184be
+virulence_ent	efaAfm	90.82	861 / 879	Contig_70_84.0585	85540..86400		AF042288.1	vf_NG0184be
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_16_83.6065	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0184be
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_65_81.838	28505..29923	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0184be
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_71_76.4539	87294..88295	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0184be
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_13_164.036	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_13_164.036	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0184be
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_13_164.036	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0184be
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_70_84.0585	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_70_84.0585	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	fms15-Entfm-hosp	97.98	2180 / 2769	Contig_11_92.5271	26470..28646	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0184be
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_70_84.0585	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0184be
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_37_65.4178	34006..36085	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184be
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_37_65.4178	34006..36085	E. lactis variant TX1330	GG669059.1	vf_NG0184be
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_37_65.4178	37899..39875	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0184be
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_40_69.3456	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0184be
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_60_66.996	51150..51707	E. faecium variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_60_66.996	45992..46894	E. faecium variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_60_66.996	46926..47168	E. faecium variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_60_66.996	51739..51981	E. faecium variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_40_69.3456	124319..124933	E. faecium hospital variant	CP003583.1	vf_NG0184be
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_70_84.0585	82485..83093	E. faecium variant	CP003583.1	vf_NG0184be
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_62_74.6628	97..720	E. faecium hospital variant	CP003583.1	vf_NG0184be
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_6_73.6231	66687..67322	E. faecium variant	CP003583.1	vf_NG0184be
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_60_66.996	76898..77818	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0184be
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_43_88.3318	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_43_88.3318	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0184be
+virulence_ent	acm	99.91	2121 / 2166	Contig_17_76.842	1..2121		CP003351.1	vf_NG0187bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_51_78.8683	84027..84887		AF042288.1	vf_NG0187bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_17_76.842	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0187bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_54_70.465	28505..29923	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0187bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_59_71.4021	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0187bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_15_144.723	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_15_144.723	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0187bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_15_144.723	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_51_78.8683	51913..53610	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_51_78.8683	54916..58953	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_12_81.0944	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0187bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_51_78.8683	53603..54916	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0187bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_52_64.361	14854..16933	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0187bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_52_64.361	14854..16933	E. lactis variant TX1330	GG669059.1	vf_NG0187bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_52_64.361	11064..13040	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0187bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_32_65.2201	24134..25840	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0187bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_54_70.465	207415..207972	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_54_70.465	202257..203159	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_54_70.465	203191..203433	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_54_70.465	208004..208246	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	lysM1-Entfm-hosp	94.37	497 / 639	Contig_32_65.2201	124322..124794	E. faecium hospital variant	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_51_78.8683	80972..81580	E. faecium variant	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_1_67.6498	37958..38581	E. faecium hospital variant	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_7_67.1404	66687..67322	E. faecium variant	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_54_70.465	233163..234083	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0187bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_35_82.1353	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_entfm_entls	scm-Entfm-hosp	99.94	1812 / 1812	Contig_35_82.1353	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_16_42.7146	1..2121		CP003351.1	vf_NG0187bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_41_37.4809	13091..13951		AF042288.1	vf_NG0187bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_16_42.7146	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0187bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_67_42.281	28517..29935	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0187bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_78_38.3252	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0187bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_14_37.0193	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_14_37.0193	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0187bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_14_37.0193	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_17_42.7515	51995..53692	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_17_42.7515	54998..59035	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_9_45.6474	27080..28916	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0187bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_17_42.7515	53685..54998	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0187bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_34_32.4525	14425..16504	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0187bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_34_32.4525	14425..16504	E. lactis variant TX1330	GG669059.1	vf_NG0187bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_34_32.4525	10635..12611	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0187bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_14_37.0193	30004..31710	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0187bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_81_32.1009	10240..10797	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_81_32.1009	15053..15955	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_81_32.1009	14779..15021	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_81_32.1009	9966..10208	E. faecium variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_17_42.7515	81054..81662	E. faecium variant	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	482 / 624	Contig_37_34.1438	1..482	E. faecium hospital variant	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_23_34.2509	22116..22751	E. faecium variant	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_45_35.402	14891..15811	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0187bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_84_41.5529	21565..23100	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_entfm_entls	scm-Entfm-hosp	99.94	1812 / 1812	Contig_3_43.6933	93746..95557	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0187bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_15_39.4455	1..2121		CP003351.1	vf_NG0189bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_16_37.9697	41903..42763		AF042288.1	vf_NG0189bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_15_39.4455	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0189bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_26_36.5476	28482..29900	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0189bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_73_35.0617	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0189bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_12_72.8286	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_12_72.8286	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0189bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_12_72.8286	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_16_37.9697	9789..11486	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_16_37.9697	12792..16829	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_14_37.2344	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0189bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_16_37.9697	11479..12792	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0189bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.09	2080 / 2091	Contig_36_32.631	34018..36097	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0189bc
+virulence_entfm_entls	fms20-Entls	99.09	2080 / 2091	Contig_36_32.631	34018..36097	E. lactis variant TX1330	GG669059.1	vf_NG0189bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_36_32.631	37911..39887	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0189bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_46_33.0325	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0189bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_72_29.7919	30339..30896	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_72_29.7919	35152..36054	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_72_29.7919	34878..35120	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_72_29.7919	30065..30307	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_16_37.9697	38848..39456	E. faecium variant	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	389 / 624	Contig_54_34.4584	1..389	E. faecium hospital variant	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_31_32.7909	22117..22752	E. faecium variant	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_72_29.7919	4228..5148	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0189bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_49_39.915	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_51_41.223	79525..81336	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bc
+virulence_ent	acm	99.9	2061 / 2166	Contig_52_20.9539	1..2061		CP003351.1	vf_NG0189bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_214_22.6163	13154..14014		AF042288.1	vf_NG0189bd
+virulence_entfm_entls	acm-Entls	96.36	1759 / 1755	Contig_52_20.9539	238..1996	E. lactis variant TX1330	GG669060.1	vf_NG0189bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_263_27.7481	2271..3689	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0189bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_2_24.9113	16243..17244	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0189bd
+virulence_entfm_entls	empA-Entfm-hosp	95.46	2817 / 3390	Contig_206_44.3223	624..3433	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_206_44.3223	3436..4857	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0189bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_206_44.3223	4854..6731	E. faecium hospital variant Efm	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_46_25.0063	9747..11444	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_46_25.0063	12750..16787	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_49_29.2853	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0189bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_46_25.0063	11437..12750	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0189bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.09	2080 / 2091	Contig_123_21.5817	34018..36097	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0189bd
+virulence_entfm_entls	fms20-Entls	99.09	2080 / 2091	Contig_123_21.5817	34018..36097	E. lactis variant TX1330	GG669059.1	vf_NG0189bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_123_21.5817	37911..39887	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0189bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_136_22.9401	815..2521	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0189bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_15_20.3708	10371..10928	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_76_23.8062	2264..3166	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_76_23.8062	1990..2232	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_15_20.3708	10097..10339	E. faecium variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_202_25.5328	11143..11751	E. faecium variant	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	503 / 624	Contig_3_24.8243	8862..9364	E. faecium hospital variant	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	lysM3-Entfm-hosp	92.51	427 / 624	Contig_217_20.2769	1..418	E. faecium hospital variant	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_73_21.6645	22116..22751	E. faecium variant	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_60_20.1399	56..976	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0189bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_1_25.1448	16030..17565	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_193_26.6626	62109..63920	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0189bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_13_126.614	1..2121		CP003351.1	vf_NG0190bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_56_124.457	85540..86400		AF042288.1	vf_NG0190bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_13_126.614	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0190bc
+virulence_entfm_entls	bepA-Entfm-com	99.86	1419 / 1419	Contig_51_108.731	204039..205457	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0190bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_59_110.638	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0190bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_11_249.234	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_11_249.234	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0190bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_11_249.234	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_56_124.457	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_56_124.457	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	fms15-Entfm-hosp	98.01	2166 / 2769	Contig_8_142.056	27080..29242	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0190bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_56_124.457	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0190bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_25_117.401	14425..16504	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0190bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_25_117.401	14425..16504	E. lactis variant TX1330	GG669059.1	vf_NG0190bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_25_117.401	10635..12611	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0190bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_34_103.911	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0190bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_51_108.731	382949..383506	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_51_108.731	377791..378693	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_51_108.731	378725..378967	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_51_108.731	383538..383780	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_34_103.911	124319..124933	E. faecium hospital variant	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_56_124.457	82485..83093	E. faecium variant	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	lysM3-Entfm-hosp	99.8	503 / 624	Contig_30_110.038	1..503	E. faecium hospital variant	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_6_106.688	66687..67322	E. faecium variant	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_51_108.731	408697..409617	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0190bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_55_132.089	21833..23368	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_55_132.089	139818..141629	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_25_37.1416	1..2121		CP003351.1	vf_NG0190bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_113_35.5262	19993..20853		AF042288.1	vf_NG0190bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_25_37.1416	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0190bd
+virulence_entfm_entls	bepA-Entfm-com	99.86	1419 / 1419	Contig_43_32.6643	28482..29900	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0190bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_36_32.1587	55773..56774	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0190bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_20_39.2695	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_20_39.2695	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0190bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_20_39.2695	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_101_36.6561	17732..19429	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_101_36.6561	20735..24772	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_22_35.1023	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0190bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_101_36.6561	19422..20735	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0190bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_18_24.2254	27975..30054	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0190bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_18_24.2254	27975..30054	E. lactis variant TX1330	GG669059.1	vf_NG0190bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_18_24.2254	31868..33844	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0190bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_105_28.4869	10662..12368	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0190bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_63_28.7511	24599..25156	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_63_28.7511	19441..20343	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_63_28.7511	20375..20617	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_63_28.7511	25188..25430	E. faecium variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	lysM1-Entfm-hosp	94.69	508 / 639	Contig_2_23.1421	1..484	E. faecium hospital variant	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_113_35.5262	16938..17546	E. faecium variant	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	lysM3-Entfm-hosp	99.84	624 / 624	Contig_15_29.0507	4829..5452	E. faecium hospital variant	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_12_29.9808	66687..67322	E. faecium variant	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_63_28.7511	50347..51267	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0190bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_70_36.969	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_70_36.969	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0190bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_15_37.2728	1..2121		CP003351.1	vf_NG0194bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_68_35.828	62865..63725		AF042288.1	vf_NG0194bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_15_37.2728	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0194bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_1_35.1368	9918..11336	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0194bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_82_33.861	87294..88295	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0194bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_11_68.8442	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_11_68.8442	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0194bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_11_68.8442	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_68_35.828	30751..32448	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_68_35.828	33754..37791	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_10_39.0561	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0194bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_68_35.828	32441..33754	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0194bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_43_33.0911	34006..36085	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0194bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_43_33.0911	34006..36085	E. lactis variant TX1330	GG669059.1	vf_NG0194bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_43_33.0911	37899..39875	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0194bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_62_31.1094	10815..12521	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0194bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_66_29.3626	51150..51707	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_66_29.3626	45992..46894	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_66_29.3626	46926..47168	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_66_29.3626	51739..51981	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_68_35.828	59810..60418	E. faecium variant	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_22_32.1097	37850..38473	E. faecium hospital variant	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_21_31.2226	22116..22751	E. faecium variant	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_66_29.3626	76898..77818	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0194bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_53_38.4007	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_53_38.4007	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_10_211.953	1..2121		CP003351.1	vf_NG0194bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_59_222.595	85540..86400		AF042288.1	vf_NG0194bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_10_211.953	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0194bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_14_209.658	28501..29919	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0194bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_61_197.964	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0194bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_9_416.801	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_9_416.801	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0194bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_9_416.801	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_59_222.595	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_59_222.595	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_8_245.687	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0194bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_59_222.595	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0194bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_22_178.419	14425..16504	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0194bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_22_178.419	14425..16504	E. lactis variant TX1330	GG669059.1	vf_NG0194bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_22_178.419	10635..12611	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0194bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_34_186.199	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0194bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_50_163.8	51150..51707	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_50_163.8	45992..46894	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_50_163.8	46926..47168	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_50_163.8	51739..51981	E. faecium variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	lysM1-Entfm-hosp	94.79	518 / 639	Contig_26_115.588	1..494	E. faecium hospital variant	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_59_222.595	82485..83093	E. faecium variant	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_34_186.199	124319..124942	E. faecium hospital variant	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_5_186.043	66687..67322	E. faecium variant	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_50_163.8	76898..77818	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0194bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_37_244.83	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_37_244.83	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0194bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_22_49.9779	1..2121		CP003351.1	vf_NG0197bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_16_43.0284	13125..13985		AF042288.1	vf_NG0197bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_22_49.9779	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0197bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_107_48.9525	28485..29903	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0197bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_104_42.4822	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0197bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_19_92.8257	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_19_92.8257	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0197bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_19_92.8257	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_112_46.8077	9738..11435	E. faecium variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_112_46.8077	12741..16778	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_21_47.5841	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0197bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_112_46.8077	11428..12741	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0197bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_75_34.503	34008..36087	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0197bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_75_34.503	34008..36087	E. lactis variant TX1330	GG669059.1	vf_NG0197bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_75_34.503	37901..39877	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0197bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_9_40.6677	41666..43372	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0197bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_68_37.3102	10194..10751	E. faecium variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_68_37.3102	15007..15909	E. faecium variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_68_37.3102	14733..14975	E. faecium variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_68_37.3102	9920..10162	E. faecium variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_81_30.7101	6767..7381	E. faecium hospital variant	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_18_45.1561	11113..11721	E. faecium variant	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	387 / 624	Contig_54_76.0872	1..387	E. faecium hospital variant	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_14_40.1674	43100..43735	E. faecium variant	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_36_37.3875	44..964	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0197bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_115_48.863	21565..23100	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_115_48.863	139550..141361	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0197bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_18_157.125	1..2121		CP003351.1	vf_NG0214bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_57_160.1	85540..86400		AF042288.1	vf_NG0214bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_18_157.125	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0214bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_6_152.645	61487..62905	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0214bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_58_149.028	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0214bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_15_268.75	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_15_268.75	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0214bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_15_268.75	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_57_160.1	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_57_160.1	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_16_172.78	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0214bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_57_160.1	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0214bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_26_115.517	14425..16504	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0214bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_26_115.517	14425..16504	E. lactis variant TX1330	GG669059.1	vf_NG0214bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_26_115.517	10635..12611	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0214bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_35_134.155	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0214bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_40_131.398	58642..59199	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_40_131.398	53484..54386	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_40_131.398	54418..54660	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_40_131.398	59231..59473	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_35_134.155	124319..124933	E. faecium hospital variant	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_57_160.1	82485..83093	E. faecium variant	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_1_141.929	37958..38581	E. faecium hospital variant	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_8_140.153	66687..67322	E. faecium variant	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_40_131.398	84390..85310	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0214bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_37_170.455	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_37_170.455	139810..141621	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_21_28.9813	1..2121		CP003351.1	vf_NG0214bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_66_28.9917	14158..15018		AF042288.1	vf_NG0214bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_21_28.9813	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0214bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_35_31.2803	28482..29900	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0214bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_91_27.3563	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0214bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_19_35.7765	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_19_35.7765	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0214bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_19_35.7765	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_49_30.7159	33822..35519	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_49_30.7159	36825..40862	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_20_32.4173	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0214bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_49_30.7159	35512..36825	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0214bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_57_23.7476	14844..16923	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0214bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_57_23.7476	14844..16923	E. lactis variant TX1330	GG669059.1	vf_NG0214bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_57_23.7476	11054..13030	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0214bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_82_25.8284	42162..43868	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0214bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_69_24.2013	43095..43652	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_69_24.2013	37937..38839	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_69_24.2013	38871..39113	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_69_24.2013	43684..43926	E. faecium variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	lysM1-Entfm-hosp	94.37	497 / 639	Contig_47_25.0421	1..473	E. faecium hospital variant	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_66_28.9917	11103..11711	E. faecium variant	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	503 / 624	Contig_52_27.3588	1..503	E. faecium hospital variant	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_42_25.89	22117..22752	E. faecium variant	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_69_24.2013	68843..69763	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0214bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_67_30.9297	21825..23360	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_114_31.8612	75205..77016	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0214bd
+virulence_ent	acm	99.9	2102 / 2166	Contig_21_31.1763	1..2102		CP003351.1	vf_NG0220bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_74_30.3984	13206..14066		AF042288.1	vf_NG0220bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2102 / 2166	Contig_21_31.1763	1..2102	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0220bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_34_34.0151	28481..29899	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0220bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_76_30.5889	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0220bc
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_19_61.2129	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_19_61.2129	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0220bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_19_61.2129	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_43_34.5397	33822..35519	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_43_34.5397	36825..40862	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_17_36.4579	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0220bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_43_34.5397	35512..36825	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0220bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_29_24.6767	27968..30047	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0220bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_29_24.6767	27968..30047	E. lactis variant TX1330	GG669059.1	vf_NG0220bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_29_24.6767	31861..33837	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0220bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_59_29.0896	24131..25837	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0220bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_12_28.1617	47937..48494	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_12_28.1617	42779..43681	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_12_28.1617	43713..43955	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_12_28.1617	48526..48768	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_43_34.5397	62881..63489	E. faecium variant	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_84_30.4169	38994..39629	E. faecium variant	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_12_28.1617	73685..74605	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0220bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_96_35.4968	21565..23100	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_96_35.4968	139550..141361	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bc
+virulence_ent	acm	99.91	2121 / 2166	Contig_18_42.9784	1..2121		CP003351.1	vf_NG0220bd
+virulence_ent	efaAfm	90.82	861 / 879	Contig_73_41.7062	85540..86400		AF042288.1	vf_NG0220bd
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_18_42.9784	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0220bd
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_68_39.429	28494..29912	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0220bd
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_64_37.9774	87297..88298	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0220bd
+virulence_entfm_entls	empA-Entfm-hosp	98.19	2212 / 3390	Contig_16_80.3579	1..2212	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_16_80.3579	2215..3636	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0220bd
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_16_80.3579	3633..5510	E. faecium hospital variant Efm	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_73_41.7062	53426..55123	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_73_41.7062	56429..60466	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_14_44.6216	26470..28306	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0220bd
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_73_41.7062	55116..56429	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0220bd
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_38_33.278	34006..36085	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0220bd
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_38_33.278	34006..36085	E. lactis variant TX1330	GG669059.1	vf_NG0220bd
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_38_33.278	37899..39875	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0220bd
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_27_36.1777	41770..43476	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0220bd
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_56_33.3104	48093..48650	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_56_33.3104	42935..43837	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_56_33.3104	43869..44111	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_56_33.3104	48682..48924	E. faecium variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	lysM1-Entfm-hosp	95.62	639 / 639	Contig_60_33.9142	56625..57239	E. faecium hospital variant	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_73_41.7062	82485..83093	E. faecium variant	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	624 / 624	Contig_59_36.9381	37849..38472	E. faecium hospital variant	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_1_36.9299	66795..67430	E. faecium variant	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_56_33.3104	73841..74761	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0220bd
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_75_44.0269	21565..23100	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_75_44.0269	139550..141361	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0220bd
+virulence_ent	acm	99.91	2121 / 2166	Contig_32_31.8346	1..2121		CP003351.1	vf_NG0222bc
+virulence_ent	efaAfm	90.82	861 / 879	Contig_3_31.2422	13121..13981		AF042288.1	vf_NG0222bc
+virulence_entfm_entls	acm-Entfm-com	99.95	2121 / 2166	Contig_32_31.8346	1..2121	E. faecium community variant C59	NZ_WLYR01000013.1	vf_NG0222bc
+virulence_entfm_entls	bepA-Entfm-com	99.93	1419 / 1419	Contig_29_33.1007	7630..9048	E. faecium community variant C59	NZ_WLYR01000001.1	vf_NG0222bc
+virulence_entfm_entls	ccpA-Entfm-com	99.9	1002 / 1002	Contig_146_30.3607	87295..88296	E. faecium community variant C59	NZ_WLYR01000003.1	vf_NG0222bc
+virulence_entfm_entls	empA-Entfm-hosp	98.82	3390 / 3390	Contig_55_32.0131	65580..68969	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	empB-Entfm-com	99.65	1422 / 1422	Contig_55_32.0131	68972..70393	E. faecium community variant C59	NZ_WLYR01000036.1	vf_NG0222bc
+virulence_entfm_entls	empC-Entfm-hosp	99.57	1878 / 1878	Contig_55_32.0131	70390..72267	E. faecium hospital variant Efm	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	fms13-Entfm	100.0	1698 / 1698	Contig_31_33.5266	9797..11494	E. faecium variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	fms14-Entfm-hosp	99.93	4038 / 4038	Contig_31_33.5266	12800..16837	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	fms15-Entfm-hosp	99.29	1837 / 2769	Contig_28_32.8306	1..1837	E. faecium hospital variant E1636	ABRY01000026.1	vf_NG0222bc
+virulence_entfm_entls	fms17-Entfm-com	99.85	1314 / 1314	Contig_31_33.5266	11487..12800	E. faecium community variant C59	NZ_WLYR01000016.1	vf_NG0222bc
+virulence_entfm_entls	fms20-Entfm-hosp	99.13	2080 / 2091	Contig_67_28.3853	34006..36085	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0222bc
+virulence_entfm_entls	fms20-Entls	99.13	2080 / 2091	Contig_67_28.3853	34006..36085	E. lactis variant TX1330	GG669059.1	vf_NG0222bc
+virulence_entfm_entls	fms21-Entfm-hosp	98.74	1977 / 1977	Contig_67_28.3853	37899..39875	E. faecium hospital variant Efm_DO_plasmid3	CP003586.1	vf_NG0222bc
+virulence_entfm_entls	fnm-Entfm-com	100.0	1707 / 1707	Contig_73_28.6288	41821..43527	E. faecium community variant C59	NZ_WLYR01000008.1	vf_NG0222bc
+virulence_entfm_entls	gls20-Entfm	100.0	558 / 558	Contig_98_27.7404	10194..10751	E. faecium variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	gls33-Entfm	100.0	903 / 903	Contig_16_32.9946	2267..3169	E. faecium variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	glsB-Entfm	100.0	243 / 243	Contig_16_32.9946	1993..2235	E. faecium variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	glsB1-Entfm	100.0	243 / 243	Contig_98_27.7404	9920..10162	E. faecium variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	lysM2-Entfm	100.0	609 / 609	Contig_36_33.8095	21344..21952	E. faecium variant	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	lysM3-Entfm-hosp	100.0	503 / 624	Contig_101_29.4202	12927..13429	E. faecium hospital variant	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	lysM4-Entfm	100.0	636 / 636	Contig_41_28.5855	22116..22751	E. faecium variant	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	prpA-Entfm-com	93.27	921 / 1170	Contig_55_32.0131	14949..15869	E. faecium community variant	NZ_ABQJ01000017.1	vf_NG0222bc
+virulence_entfm_entls	sagA-Entfm-hosp	100.0	1536 / 1536	Contig_27_32.9345	36881..38416	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0222bc
+virulence_entfm_entls	scm-Entfm-hosp	100.0	1812 / 1812	Contig_50_34.3701	79525..81336	E. faecium hospital variant Efm_DO	CP003583.1	vf_NG0222bc

@@ -1,0 +1,36 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	13	237	+	BFJHJL_00005		hypothetical protein	
+contig_1	cds	240	488	-	BFJHJL_00010		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI000D578AAA
+contig_1	cds	485	1393	-	BFJHJL_00015	ant(6)-Ia	aminoglycoside nucleotidyltransferase ANT(6)-Ia	NCBIProtein:WP_001255866.1, SO:0001217, UniRef:UniRef50_P0DTV9
+contig_1	cds	1426	2160	-	BFJHJL_00020		Malonyl-[acyl-carrier protein] O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P8Y9M1
+contig_1	cds	2141	3010	-	BFJHJL_00025		NTP-transf-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3MV52
+contig_1	cds	3025	3249	-	BFJHJL_00030		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R9MIZ2
+contig_1	cds	3392	4954	-	BFJHJL_00035		Recombinase family protein	SO:0001217, UniRef:UniRef50_S1RJ85
+contig_1	cds	4956	5372	-	BFJHJL_00040		hypothetical protein	
+contig_1	cds	5373	5825	-	BFJHJL_00045		hypothetical protein	
+contig_1	cds	6166	6858	-	BFJHJL_00050		Omega-protein	SO:0001217, UniRef:UniRef50_E3C7R6
+contig_1	cds	6874	7476	-	BFJHJL_00055		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_B2GBH8
+contig_1	cds	7490	7660	-	BFJHJL_00060		hypothetical protein	
+contig_1	cds	8104	8418	+	BFJHJL_00065		DUF961 domain-containing protein	SO:0001217, UniRef:UniRef50_S0J4Y5
+contig_1	cds	8437	8820	+	BFJHJL_00070		DUF961 domain-containing protein	SO:0001217, UniRef:UniRef50_B0G9X8
+contig_1	cds	8849	10234	+	BFJHJL_00075		DUF87 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A659ZZP0
+contig_1	cds	10204	10389	+	BFJHJL_00080		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_G3GHY3
+contig_1	cds	10412	11617	+	BFJHJL_00085		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_F7KH28
+contig_1	cds	11660	11881	+	BFJHJL_00090		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_R2RZ59
+contig_1	cds	11998	12495	+	BFJHJL_00095	ardA	Antirestriction protein ArdA	SO:0001217, UniRef:UniRef50_H1BBB3
+contig_1	cds	12960	15407	+	BFJHJL_00100		ATP/GTP-binding protein	SO:0001217, UniRef:UniRef50_N9UZ03
+contig_1	cds	15410	17587	+	BFJHJL_00105	ytxH	YtxH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1I3X3X8
+contig_1	cds	17584	18585	+	BFJHJL_00110		putative endopeptidase p60	SO:0001217, UniRef:UniRef50_A0A1C6B2C6
+contig_1	cds	18582	19514	+	BFJHJL_00115		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_F7KH35
+contig_1	ncRNA	19671	19835	+	BFJHJL_00120	sRNA_0030	Enterococcus sRNA 30	RFAM:RF02864, SO:0000655
+contig_1	cds	19891	21810	+	BFJHJL_00125	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	NCBIProtein:WP_001574275.1, SO:0001217, UniRef:UniRef50_P10952
+contig_1	cds	22178	23380	+	BFJHJL_00130	tet(L)	tetracycline efflux MFS transporter Tet(L)	NCBIProtein:WP_001574277.1, SO:0001217, UniRef:UniRef50_E2YTP4
+contig_1	oriC	23381	23943	?		Origin of replication	Origin of replication	Origin of replication
+contig_1	cds	23944	25206	+	BFJHJL_00135		Plasmid recombination enzyme type 2	SO:0001217, UniRef:UniRef50_P0A0C5
+contig_1	oriC	25207	25429	?		Origin of replication	Origin of replication	Origin of replication
+contig_1	cds	25229	25405	+	BFJHJL_00140		Ovule protein	SO:0001217, UniRef:UniRef50_T1Y4F9
